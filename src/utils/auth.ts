@@ -5,7 +5,7 @@ export const ALLOWED_EMAIL = 'bmahaswettha@gmail.com';
 const SESSION_STORAGE_KEY = 'striver_tracker_auth_session';
 
 // Precomputed SHA-256 digest for credential verification
-const AUTH_PASSWORD_HASH = '051dbd3b86479c7f49e5e02f9376a65bac8c31c799649d5ed00e75365b397ecb';
+const AUTH_PASSWORD_HASH = '9da96299cf17668385c62ce197372a016d431ba33bfd367fd6fa834fbc915382';
 
 /**
  * Hash a string using SHA-256 with Web Crypto API

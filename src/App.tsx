@@ -3,7 +3,6 @@ import {
   Problem, 
   PersonalDataStore, 
   ProblemStatus, 
-  RevisionStatus, 
   CodeLanguage 
 } from './types/tracker';
 import masterProblemsData from './data/striverA2ZProblems.json';
@@ -17,17 +16,14 @@ import {
 } from './utils/auth';
 import { LoginPage } from './components/LoginPage';
 import { Header } from './components/Header';
-import { Sidebar } from './components/Sidebar';
-import { SingleProblemView } from './components/SingleProblemView';
+import { StepAccordion } from './components/StepAccordion';
 import { NotesModal } from './components/NotesModal';
-import { CodeModal } from './components/CodeModal';
 import { BackupModal } from './components/BackupModal';
-import { BookOpen } from 'lucide-react';
 
 const masterProblems: Problem[] = masterProblemsData as Problem[];
 
 export const App: React.FC = () => {
-  // Authentication state (persisted across refreshes during current session)
+  // Authentication state
   const [isAuthenticated, setIsAuthenticated] = useState<boolean>(() => isAuthenticatedSession());
 
   // Theme state
@@ -52,41 +48,13 @@ export const App: React.FC = () => {
   // Personal data store (persisted in localStorage)
   const [personalData, setPersonalData] = useState<PersonalDataStore>(() => loadPersonalData());
 
-  // Currently selected problem ID (remembered in localStorage)
-  const [selectedProblemId, setSelectedProblemId] = useState<string>(() => {
-    const saved = localStorage.getItem('striver_last_selected_problem');
-    if (saved && masterProblems.some(p => p.id === saved)) {
-      return saved;
-    }
-    return masterProblems[0]?.id || 'p-001';
+  // Track expanded steps (by default Step 1 is open)
+  const [expandedSteps, setExpandedSteps] = useState<Record<string, boolean>>(() => {
+    return { 'Step 1': true };
   });
-
-  // Track active Step & Subtopic for sidebar highlight
-  const selectedProblem = useMemo(() => {
-    return masterProblems.find(p => p.id === selectedProblemId) || masterProblems[0];
-  }, [selectedProblemId]);
-
-  const [selectedStep, setSelectedStep] = useState<string>(selectedProblem.step);
-  const [selectedSubtopic, setSelectedSubtopic] = useState<string>(selectedProblem.subtopicId);
-
-  // Sync selectedStep & selectedSubtopic when selectedProblem changes
-  useEffect(() => {
-    if (selectedProblem) {
-      setSelectedStep(selectedProblem.step);
-      setSelectedSubtopic(selectedProblem.subtopicId);
-      localStorage.setItem('striver_last_selected_problem', selectedProblem.id);
-    }
-  }, [selectedProblem]);
-
-  // Search Query state
-  const [searchQuery, setSearchQuery] = useState<string>('');
-
-  // Mobile sidebar toggle
-  const [isSidebarOpen, setIsSidebarOpen] = useState<boolean>(false);
 
   // Modals state
   const [activeNotesProblem, setActiveNotesProblem] = useState<Problem | null>(null);
-  const [activeCodeProblem, setActiveCodeProblem] = useState<Problem | null>(null);
   const [isBackupOpen, setIsBackupOpen] = useState<boolean>(false);
 
   // Logout handler
@@ -95,14 +63,9 @@ export const App: React.FC = () => {
     setIsAuthenticated(false);
   }, []);
 
-  // Personal data updates - immediately saves to localStorage and updates state
+  // Personal data update handlers
   const handleUpdateStatus = useCallback((problemId: string, status: ProblemStatus) => {
     const updated = updateProblemPersonalData(problemId, { status });
-    setPersonalData(updated);
-  }, []);
-
-  const handleUpdateRevision = useCallback((problemId: string, revision: RevisionStatus) => {
-    const updated = updateProblemPersonalData(problemId, { revision });
     setPersonalData(updated);
   }, []);
 
@@ -121,127 +84,83 @@ export const App: React.FC = () => {
     setPersonalData(updated);
   }, []);
 
-  const handleSaveCode = useCallback((problemId: string, code: string, language: CodeLanguage) => {
-    const updated = updateProblemPersonalData(problemId, { code, language });
-    setPersonalData(updated);
-  }, []);
-
   const handleImportSuccess = (newData: PersonalDataStore) => {
     setPersonalData(newData);
   };
 
-  const handleSelectProblem = useCallback((problem: Problem) => {
-    setSelectedProblemId(problem.id);
-    setSelectedStep(problem.step);
-    setSelectedSubtopic(problem.subtopicId);
+  // Group master problems by Step
+  const stepGroups = useMemo(() => {
+    const map = new Map<string, { step: string; stepTitle: string; problems: Problem[] }>();
+    const order: string[] = [];
+
+    masterProblems.forEach((p) => {
+      if (!map.has(p.step)) {
+        map.set(p.step, {
+          step: p.step,
+          stepTitle: p.stepTitle,
+          problems: []
+        });
+        order.push(p.step);
+      }
+      map.get(p.step)!.problems.push(p);
+    });
+
+    return order.map(stepKey => map.get(stepKey)!);
   }, []);
 
-  const handleSelectSubtopic = useCallback((step: string, subtopicId: string) => {
-    setSelectedStep(step);
-    setSelectedSubtopic(subtopicId);
-  }, []);
+  // Overall Statistics computation
+  const totalProblemsCount = masterProblems.length;
+  const solvedCount = useMemo(() => {
+    return Object.values(personalData).filter(p => p.status === 'Solved').length;
+  }, [personalData]);
 
-  // Previous & Next Problem Navigation
-  const currentIndex = useMemo(() => {
-    return masterProblems.findIndex(p => p.id === selectedProblemId);
-  }, [selectedProblemId]);
+  const toggleStepExpand = (stepName: string) => {
+    setExpandedSteps(prev => ({
+      ...prev,
+      [stepName]: !prev[stepName]
+    }));
+  };
 
-  const hasPrev = currentIndex > 0;
-  const hasNext = currentIndex >= 0 && currentIndex < masterProblems.length - 1;
-
-  const handlePrevProblem = useCallback(() => {
-    if (hasPrev) {
-      handleSelectProblem(masterProblems[currentIndex - 1]);
-    }
-  }, [currentIndex, hasPrev, handleSelectProblem]);
-
-  const handleNextProblem = useCallback(() => {
-    if (hasNext) {
-      handleSelectProblem(masterProblems[currentIndex + 1]);
-    }
-  }, [currentIndex, hasNext, handleSelectProblem]);
-
-  // Keyboard navigation: Alt+Left / Alt+Right to step through problems
-  useEffect(() => {
-    const handleKeyDown = (e: KeyboardEvent) => {
-      const target = e.target as HTMLElement;
-      if (target.tagName === 'INPUT' || target.tagName === 'TEXTAREA' || target.isContentEditable) {
-        return;
-      }
-      if (e.altKey && e.key === 'ArrowLeft') {
-        e.preventDefault();
-        handlePrevProblem();
-      } else if (e.altKey && e.key === 'ArrowRight') {
-        e.preventDefault();
-        handleNextProblem();
-      }
-    };
-    window.addEventListener('keydown', handleKeyDown);
-    return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [handlePrevProblem, handleNextProblem]);
-
-  // Guard: If not authenticated, render Login Page only
+  // If not authenticated, render Login Page
   if (!isAuthenticated) {
-    return <LoginPage onLoginSuccess={() => setIsAuthenticated(true)} />;
+    return <LoginPage darkMode={darkMode} onLoginSuccess={() => setIsAuthenticated(true)} />;
   }
 
   return (
-    <div className="min-h-screen bg-[#0b0f17] text-[#e6edf3] flex flex-col font-sans antialiased">
+    <div className={`min-h-screen flex flex-col font-sans antialiased transition-colors ${
+      darkMode ? 'bg-[#0b0f17] text-[#e6edf3]' : 'bg-[#f6f8fa] text-[#1f2328]'
+    }`}>
       {/* Top Header */}
       <Header
         darkMode={darkMode}
         onToggleDarkMode={() => setDarkMode(!darkMode)}
         onOpenBackup={() => setIsBackupOpen(true)}
         onLogout={handleLogout}
-        toggleSidebar={() => setIsSidebarOpen(!isSidebarOpen)}
-        searchQuery={searchQuery}
-        onSearchChange={(q) => setSearchQuery(q)}
+        totalProblems={totalProblemsCount}
+        solvedProblems={solvedCount}
       />
 
-      {/* Main Workspace Layout */}
-      <div className="flex-1 flex max-w-[1700px] w-full mx-auto">
-        {/* Left: 3-Level Expandable DSA Problem Tree */}
-        <Sidebar
-          problems={masterProblems}
-          personalData={personalData}
-          selectedProblemId={selectedProblemId}
-          selectedStep={selectedStep}
-          selectedSubtopic={selectedSubtopic}
-          onSelectProblem={handleSelectProblem}
-          onSelectSubtopic={handleSelectSubtopic}
-          isOpen={isSidebarOpen}
-          onClose={() => setIsSidebarOpen(false)}
-          searchQuery={searchQuery}
-        />
-
-        {/* Right: Dedicated Single Problem View */}
-        <main className="flex-1 min-w-0 p-4 sm:p-6 lg:p-8 flex flex-col items-center justify-start overflow-y-auto">
-          {selectedProblem ? (
-            <SingleProblemView
-              problem={selectedProblem}
-              personalData={personalData[selectedProblem.id]}
-              onUpdateStatus={(status) => handleUpdateStatus(selectedProblem.id, status)}
-              onUpdateRevision={(revision) => handleUpdateRevision(selectedProblem.id, revision)}
-              onUpdateTimeComplexity={(tc) => handleUpdateTimeComplexity(selectedProblem.id, tc)}
-              onUpdateSpaceComplexity={(sc) => handleUpdateSpaceComplexity(selectedProblem.id, sc)}
-              onOpenNotes={() => setActiveNotesProblem(selectedProblem)}
-              onOpenCode={() => setActiveCodeProblem(selectedProblem)}
-              onPrevProblem={handlePrevProblem}
-              onNextProblem={handleNextProblem}
-              hasPrev={hasPrev}
-              hasNext={hasNext}
+      {/* Main Page: Clean Step Accordion List */}
+      <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        <div className="space-y-4">
+          {stepGroups.map((group) => (
+            <StepAccordion
+              key={group.step}
+              step={group.step}
+              stepTitle={group.stepTitle}
+              problems={group.problems}
+              personalData={personalData}
+              isExpanded={expandedSteps[group.step] ?? false}
+              onToggleExpand={() => toggleStepExpand(group.step)}
+              onUpdateStatus={handleUpdateStatus}
+              onUpdateTimeComplexity={handleUpdateTimeComplexity}
+              onUpdateSpaceComplexity={handleUpdateSpaceComplexity}
+              onOpenNotes={(prob) => setActiveNotesProblem(prob)}
+              darkMode={darkMode}
             />
-          ) : (
-            <div className="p-12 text-center rounded-xl bg-[#161b22] border border-[#30363d] space-y-3 max-w-md my-auto">
-              <BookOpen className="w-12 h-12 mx-auto text-brand-400 opacity-60" />
-              <h3 className="text-base font-semibold text-[#e6edf3]">Select a problem from the tree</h3>
-              <p className="text-xs text-dark-muted">
-                Navigate the DSA problem tree on the left to start solving.
-              </p>
-            </div>
-          )}
-        </main>
-      </div>
+          ))}
+        </div>
+      </main>
 
       {/* Notes Modal */}
       <NotesModal
@@ -250,17 +169,6 @@ export const App: React.FC = () => {
         initialNotes={activeNotesProblem ? personalData[activeNotesProblem.id]?.notes || '' : ''}
         onSave={handleSaveNotes}
         onClose={() => setActiveNotesProblem(null)}
-      />
-
-      {/* Code Modal */}
-      <CodeModal
-        isOpen={Boolean(activeCodeProblem)}
-        problem={activeCodeProblem}
-        initialCode={activeCodeProblem ? personalData[activeCodeProblem.id]?.code || '' : ''}
-        initialLanguage={activeCodeProblem ? personalData[activeCodeProblem.id]?.language || 'java' : 'java'}
-        onSave={handleSaveCode}
-        onClose={() => setActiveCodeProblem(null)}
-        darkMode={darkMode}
       />
 
       {/* Backup Modal */}

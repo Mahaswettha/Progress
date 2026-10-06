@@ -69,16 +69,14 @@ export const ProblemCard: React.FC<ProblemCardProps> = ({
 
       {/* 2. Links: Only display links if they actually exist */}
       <div className="flex flex-wrap items-center gap-1.5">
-        {problem.tufUrl && (
-          <a
-            href={problem.tufUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-[11px] font-medium px-2 py-0.5 rounded bg-[#21262d] hover:bg-[#30363d] text-[#e6edf3] border border-[#30363d] transition-colors"
-          >
-            TUF
-          </a>
-        )}
+        <a
+          href={problem.tufUrl || 'https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084'}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[11px] font-medium px-2 py-0.5 rounded bg-[#21262d] hover:bg-[#30363d] text-[#e6edf3] border border-[#30363d] transition-colors"
+        >
+          TUF Article
+        </a>
 
         {problem.gfgUrl && (
           <a

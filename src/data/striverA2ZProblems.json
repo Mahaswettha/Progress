@@ -10,7 +10,7 @@
     "subtopic": "Things to Know in C++/Java/Python or any language",
     "name": "User Input / Output",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/EAR7De6Goz4?t=250"
@@ -26,7 +26,7 @@
     "subtopic": "Things to Know in C++/Java/Python or any language",
     "name": "Data Types",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3Dqmgvx",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/EAR7De6Goz4?t=757"
@@ -42,7 +42,7 @@
     "subtopic": "Things to Know in C++/Java/Python or any language",
     "name": "If Else statements",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/java-if-else-decision-making0924/0?category%5B%5D=Java&category%5B%5D=Java&difficulty%5B%5D=-2&page=1&query=category%5B%5DJavadifficulty%5B%5D-2page1category%5B%5DJava",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/EAR7De6Goz4?t=1258"
@@ -58,7 +58,7 @@
     "subtopic": "Things to Know in C++/Java/Python or any language",
     "name": "Switch Statement",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/java-switch-case-statement3529/1",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/EAR7De6Goz4?t=2110"
@@ -74,7 +74,7 @@
     "subtopic": "Things to Know in C++/Java/Python or any language",
     "name": "What are arrays, strings?",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/EAR7De6Goz4?t=2410"
@@ -90,7 +90,7 @@
     "subtopic": "Things to Know in C++/Java/Python or any language",
     "name": "For loops",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/for-loop-primecheck-java/1",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/EAR7De6Goz4?t=3092"
@@ -106,7 +106,7 @@
     "subtopic": "Things to Know in C++/Java/Python or any language",
     "name": "While loops",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/EAR7De6Goz4?t=3459"
@@ -122,7 +122,7 @@
     "subtopic": "Things to Know in C++/Java/Python or any language",
     "name": "Functions (Pass by Reference and Value)",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3DqE0ac",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/EAR7De6Goz4?t=3678"
@@ -138,7 +138,7 @@
     "subtopic": "Things to Know in C++/Java/Python or any language",
     "name": "Time Complexity [Learn Basics, and then analyse in next Steps]",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/FPu9Uld7W-E"
@@ -170,7 +170,7 @@
     "subtopic": "Learn STL/Java-Collections or similar thing in your language",
     "name": "Java Collections or C++ STL",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/c/c-stl-tutorial-most-frequent-used-stl-containers/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=java-collections",
     "gfgUrl": "",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=RRVYpIET_RU"
@@ -202,7 +202,7 @@
     "subtopic": "Know Basic Maths",
     "name": "Reverse a Number",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/c-programs/reverse-a-number-in-c/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/reverse-digits-of-a-number",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/reverse-bits3556/1",
     "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
     "youtubeUrl": "https://youtu.be/1xNbjMdbjug?t=931"
@@ -218,7 +218,7 @@
     "subtopic": "Know Basic Maths",
     "name": "Check Palindrome",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/valid-palindrome",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/palindrome0746/1",
     "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
     "youtubeUrl": "https://youtu.be/1xNbjMdbjug?t=1235"
@@ -282,7 +282,7 @@
     "subtopic": "Know Basic Maths",
     "name": "Check for Prime",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-whether-a-number-is-prime",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/1xNbjMdbjug?t=2385"
@@ -362,7 +362,7 @@
     "subtopic": "Learn Basic Recursion",
     "name": "Sum of first N numbers",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=sum-of-first-n-numbers",
     "gfgUrl": "https://bit.ly/3C9KZ8G",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=69ZCDFy-OUo&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=3"
@@ -394,7 +394,7 @@
     "subtopic": "Learn Basic Recursion",
     "name": "Reverse an array",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/reverse-a-given-array/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=reverse-an-array",
     "gfgUrl": "https://bit.ly/3SRqzXU",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4"
@@ -410,7 +410,7 @@
     "subtopic": "Learn Basic Recursion",
     "name": "Check if a string is palindrome or not",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-whether-a-string-is-a-palindrome",
     "gfgUrl": "https://bit.ly/3w2G4T5",
     "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
     "youtubeUrl": "https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4"
@@ -426,7 +426,7 @@
     "subtopic": "Learn Basic Recursion",
     "name": "Fibonacci Number",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=fibonacci-number",
     "gfgUrl": "https://bit.ly/3QUkkk2",
     "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
     "youtubeUrl": "https://www.youtube.com/watch?v=kvRjNm4rVBE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=5"
@@ -442,7 +442,7 @@
     "subtopic": "Learn Basic Hashing",
     "name": "Hashing Theory",
     "difficulty": "Easy",
-    "tufUrl": "https://www.youtube.com/watch?v=KEs5UyBJ39g&t=1394s",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=hashing-in-strings-theory",
     "gfgUrl": "",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=KEs5UyBJ39g&t=1394s"
@@ -474,7 +474,7 @@
     "subtopic": "Learn Basic Hashing",
     "name": "Find the highest/lowest frequency element",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -490,7 +490,7 @@
     "subtopic": "Sorting-I",
     "name": "Selection Sort",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/sorting/selection-sort-algorithm/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/selection-sort-algorithm",
     "gfgUrl": "https://bit.ly/3ppA6YJ",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/HGk_ypEuS24?t=166"
@@ -506,7 +506,7 @@
     "subtopic": "Sorting-I",
     "name": "Bubble Sort",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/bubble-sort-algorithm/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/bubble-sort-algorithm",
     "gfgUrl": "https://bit.ly/3w6yQx8",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/HGk_ypEuS24?t=1061"
@@ -522,7 +522,7 @@
     "subtopic": "Sorting-I",
     "name": "Insertion Sort",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/insertion-sort-algorithm/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=recursive-insertion-sort",
     "gfgUrl": "https://bit.ly/3JVcqot",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/HGk_ypEuS24?t=1901"
@@ -554,7 +554,7 @@
     "subtopic": "Sorting-II",
     "name": "Recursive Bubble Sort",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/arrays/recursive-bubble-sort-algorithm/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=recursive-bubble-sort",
     "gfgUrl": "https://bit.ly/3QV65vI",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -570,7 +570,7 @@
     "subtopic": "Sorting-II",
     "name": "Recursive Insertion Sort",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/arrays/recursive-insertion-sort-algorithm/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=recursive-insertion-sort",
     "gfgUrl": "https://bit.ly/3PxAWx1",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -602,9 +602,9 @@
     "subtopic": "Easy",
     "name": "Largest Element in an Array",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/k-th-largest-element-in-an-array",
     "gfgUrl": "https://bit.ly/3Pld280",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
     "youtubeUrl": "https://youtu.be/37E9ckMDdTk?t=527"
   },
   {
@@ -634,7 +634,7 @@
     "subtopic": "Easy",
     "name": "Check if the array is sorted",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/check-if-an-array-is-sorted/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-an-array-is-sorted-in-ascending-order",
     "gfgUrl": "https://bit.ly/3Ap9U6F",
     "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/#:~:text=Input%3A%20nums%20%3D%20%5B2%2C,no%20rotation)%20to%20make%20nums.",
     "youtubeUrl": "https://youtu.be/37E9ckMDdTk?t=1723"
@@ -650,7 +650,7 @@
     "subtopic": "Easy",
     "name": "Remove duplicates from Sorted array",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/remove-duplicates-from-a-sorted-array-in-place",
     "gfgUrl": "https://bit.ly/3w7b6ck",
     "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/#:~:text=Input%3A%20nums%20%3D%20%5B0%2C,%2C%203%2C%20and%204%20respectively.",
     "youtubeUrl": "https://youtu.be/37E9ckMDdTk?t=1886"
@@ -666,7 +666,7 @@
     "subtopic": "Easy",
     "name": "Left Rotate an array by one place",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/left-rotate-the-array-by-one/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/left-rotate-array-by-one",
     "gfgUrl": "https://bit.ly/3dnn9vC",
     "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
     "youtubeUrl": "https://youtu.be/wvcQg43_V8U?t=61"
@@ -682,7 +682,7 @@
     "subtopic": "Easy",
     "name": "Left rotate an array by D places",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/arrays/left-rotate-an-array-by-d-places/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/left-rotate-array-by-k-places",
     "gfgUrl": "https://bit.ly/3dyCKZg",
     "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
     "youtubeUrl": "https://youtu.be/wvcQg43_V8U?t=485"
@@ -698,7 +698,7 @@
     "subtopic": "Easy",
     "name": "Move Zeros to end",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/move-all-zeros-to-the-end-of-the-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/move-zeros-to-the-end-of-an-array",
     "gfgUrl": "https://bit.ly/3PrGIjT",
     "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
     "youtubeUrl": "https://youtu.be/wvcQg43_V8U?t=1633"
@@ -714,7 +714,7 @@
     "subtopic": "Easy",
     "name": "Linear Search",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/linear-search-in-c/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/linear-search-algorithm",
     "gfgUrl": "https://bit.ly/3KcpHcB",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/wvcQg43_V8U?t=2465"
@@ -746,7 +746,7 @@
     "subtopic": "Easy",
     "name": "Find missing number in an array",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/arrays/find-the-missing-number-in-an-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/missing-number-solutions",
     "gfgUrl": "https://bit.ly/3A2pKTh",
     "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
     "youtubeUrl": "https://youtu.be/bYWLJb3vCWY?t=58"
@@ -762,7 +762,7 @@
     "subtopic": "Easy",
     "name": "Maximum Consecutive Ones",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-consecutive-ones-in-a-binary-array",
     "gfgUrl": "https://bit.ly/3piuaAN",
     "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
     "youtubeUrl": "https://youtu.be/bYWLJb3vCWY?t=1124"
@@ -794,9 +794,9 @@
     "subtopic": "Easy",
     "name": "Longest subarray with given sum(Positives)",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/longest-subarray-with-given-sum-k/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-subarray-with-sum-k",
     "gfgUrl": "",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/",
     "youtubeUrl": "https://youtu.be/frf7qxiN2qU"
   },
   {
@@ -842,7 +842,7 @@
     "subtopic": "Medium",
     "name": "Sort an array of 0 ’s 1 ’s and 2 ’s",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-array-0s-1s-2s",
     "gfgUrl": "https://bit.ly/3dsROaZ",
     "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
     "youtubeUrl": "https://www.youtube.com/watch?v=tp8JIuCXBaU&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=20"
@@ -858,7 +858,7 @@
     "subtopic": "Medium",
     "name": "Majority Element (>n/2 times)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/majority-element-n-by-2",
     "gfgUrl": "https://bit.ly/3SSpeA3",
     "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
     "youtubeUrl": "https://www.youtube.com/watch?v=nP_ns3uSh80&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=21"
@@ -906,7 +906,7 @@
     "subtopic": "Medium",
     "name": "Stock Buy and Sell",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/stock-buy-and-sell/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock",
     "gfgUrl": "https://bit.ly/3Qrx6H9",
     "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
     "youtubeUrl": "https://www.youtube.com/watch?v=excAOvwF_Wk&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=23"
@@ -938,7 +938,7 @@
     "subtopic": "Medium",
     "name": "Next Permutation",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/next-permutation",
     "gfgUrl": "https://bit.ly/3dug78u",
     "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
     "youtubeUrl": "https://www.youtube.com/watch?v=JDOXKqF60RQ&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=25"
@@ -954,9 +954,9 @@
     "subtopic": "Medium",
     "name": "Leaders in an Array problem",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/leaders-in-an-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/leaders-in-an-array",
     "gfgUrl": "https://bit.ly/3bZqbGc",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/buildings-with-an-ocean-view/",
     "youtubeUrl": "https://www.youtube.com/watch?v=cHrH9CQ8pmY&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=26"
   },
   {
@@ -970,7 +970,7 @@
     "subtopic": "Medium",
     "name": "Longest Consecutive Sequence in an Array",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-consecutive-sequence-in-an-array",
     "gfgUrl": "https://bit.ly/3ApytAD",
     "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/solution/",
     "youtubeUrl": "https://www.youtube.com/watch?v=oO5uLE7EUlM&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=28"
@@ -986,7 +986,7 @@
     "subtopic": "Medium",
     "name": "Set Matrix Zeros",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/set-matrix-zero/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/set-matrix-zeroes",
     "gfgUrl": "https://bit.ly/3SVaSig",
     "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
     "youtubeUrl": "https://www.youtube.com/watch?v=N0MgLvceX7M&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=28"
@@ -1002,7 +1002,7 @@
     "subtopic": "Medium",
     "name": "Rotate Matrix by 90 degrees",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/rotate-image-by-90-degree/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotate-matrix-90-degrees-clockwise",
     "gfgUrl": "https://bit.ly/3PqpeV8",
     "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
     "youtubeUrl": "https://www.youtube.com/watch?v=Z0R2u6gd3GU&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=29"
@@ -1018,7 +1018,7 @@
     "subtopic": "Medium",
     "name": "Print the matrix in spiral manner",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/spiral-traversal-of-matrix/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/spiral-traversal-of-a-matrix",
     "gfgUrl": "https://bit.ly/3ppEJ53",
     "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
     "youtubeUrl": "https://www.youtube.com/watch?v=3Zv-s9UUrFM&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=30"
@@ -1034,7 +1034,7 @@
     "subtopic": "Medium",
     "name": "Find number of subarrays with sum K",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/arrays/count-subarray-sum-equals-k/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-subarrays-with-given-sum",
     "gfgUrl": "http://bit.ly/3Kn10eZ",
     "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
     "youtubeUrl": "https://www.youtube.com/watch?v=xvNwoz-ufXA&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=31"
@@ -1050,7 +1050,7 @@
     "subtopic": "Hard",
     "name": "Pascal ’s Triangle",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/pascals-triangle-first-n-rows",
     "gfgUrl": "https://bit.ly/3C95qlR",
     "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
     "youtubeUrl": "https://www.youtube.com/watch?v=bR7mQgwQ_o8&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=32"
@@ -1066,7 +1066,7 @@
     "subtopic": "Hard",
     "name": "Majority Element (n/3 times)",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/majority-element-n-by-2",
     "gfgUrl": "https://bit.ly/3ULsluv",
     "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
     "youtubeUrl": "https://www.youtube.com/watch?v=vwZj1K0e9U8&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=33"
@@ -1114,7 +1114,7 @@
     "subtopic": "Hard",
     "name": "Count number of subarrays with given xor K",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-subarrays-with-a-given-xor-k",
     "gfgUrl": "https://bit.ly/3PrvhZs",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=eZr-6p0B7ME&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=36"
@@ -1146,7 +1146,7 @@
     "subtopic": "Hard",
     "name": "Merge two sorted arrays without extra space",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=merge-two-sorted-arrays-without-extra-space",
     "gfgUrl": "https://bit.ly/3zRzmAo",
     "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
     "youtubeUrl": "https://www.youtube.com/watch?v=n7uwj04E0I4&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=38"
@@ -1162,7 +1162,7 @@
     "subtopic": "Hard",
     "name": "Find the repeating and missing number",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-missing-and-repeating-numbers-in-an-array",
     "gfgUrl": "https://bit.ly/3zWZoCs",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=5nMGY4VUoRY&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=3"
@@ -1178,7 +1178,7 @@
     "subtopic": "Hard",
     "name": "Count Inversions",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/count-inversions-in-an-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-inversions-in-an-array-using-merge-sort",
     "gfgUrl": "https://bit.ly/3PtLWLM",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/AseUmwVNaoY"
@@ -1194,7 +1194,7 @@
     "subtopic": "Hard",
     "name": "Reverse Pairs",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/count-reverse-pairs/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-reverse-pairs",
     "gfgUrl": "https://bit.ly/3UVC0hE",
     "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
     "youtubeUrl": "https://youtu.be/0e4bZaP3MDI"
@@ -1210,7 +1210,7 @@
     "subtopic": "Hard",
     "name": "Maximum Product Subarray",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/maximum-product-subarray-in-an-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-product-subarray",
     "gfgUrl": "https://bit.ly/3PrlQsU",
     "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
     "youtubeUrl": "https://youtu.be/hnswaLJvr6g"
@@ -1226,10 +1226,10 @@
     "subtopic": "Learning BS on 1D Arrays",
     "name": "Binary Search to find X in sorted array",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/binary-search-explained/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-search-algorithm",
     "gfgUrl": "https://bit.ly/3QtKBpO",
     "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/MHf6awe89xw"
   },
   {
     "id": "p-078",
@@ -1242,10 +1242,10 @@
     "subtopic": "Learning BS on 1D Arrays",
     "name": "Implement Lower Bound",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/lower-bound-in-sorted-array",
     "gfgUrl": "https://bit.ly/3Cf398N",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/6zhGS79oQ4k"
   },
   {
     "id": "p-079",
@@ -1258,10 +1258,10 @@
     "subtopic": "Learning BS on 1D Arrays",
     "name": "Implement Upper Bound",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/upper-bound-in-sorted-array",
     "gfgUrl": "https://bit.ly/3CgDDjE",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/6zhGS79oQ4k"
   },
   {
     "id": "p-080",
@@ -1274,10 +1274,10 @@
     "subtopic": "Learning BS on 1D Arrays",
     "name": "Search Insert Position",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-insert-position",
     "gfgUrl": "https://bit.ly/3pFDbUN",
     "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/#:~:text=Search%20Insert%20Position%20%2D%20LeetCode&text=Given%20a%20sorted%20array%20of,(log%20n)%20runtime%20complexity.",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/6zhGS79oQ4k"
   },
   {
     "id": "p-081",
@@ -1290,10 +1290,10 @@
     "subtopic": "Learning BS on 1D Arrays",
     "name": "Floor/Ceil in Sorted Array",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=floor-and-ceil-in-sorted-array",
     "gfgUrl": "",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://www.youtube.com/watch?v=6zhGS79oQ4k&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=3"
   },
   {
     "id": "p-082",
@@ -1338,10 +1338,10 @@
     "subtopic": "Learning BS on 1D Arrays",
     "name": "Find peak element",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/peak-element-in-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-a-peak-element-in-an-array",
     "gfgUrl": "https://bit.ly/3Apsuf3",
     "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/#:~:text=Find%20Peak%20Element%20%2D%20LeetCode&text=A%20peak%20element%20is%20an,to%20any%20of%20the%20peaks.",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/cXxmbemS6XM"
   },
   {
     "id": "p-085",
@@ -1354,7 +1354,7 @@
     "subtopic": "Learning BS on 1D Arrays",
     "name": "Search in Rotated Sorted Array I",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-rotated-sorted-array",
     "gfgUrl": "https://bit.ly/3QH471y",
     "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
     "youtubeUrl": "https://www.youtube.com/watch?v=r3pMQ8-Ad5s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=64"
@@ -1370,10 +1370,10 @@
     "subtopic": "Learning BS on 1D Arrays",
     "name": "Search in Rotated Sorted Array II",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-rotated-sorted-array-ii",
     "gfgUrl": "https://bit.ly/3Rm85Nb",
     "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/w2G2W8l__pc"
   },
   {
     "id": "p-087",
@@ -1386,10 +1386,10 @@
     "subtopic": "Learning BS on 1D Arrays",
     "name": "Find minimum in Rotated Sorted Array",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/minimum-in-rotated-sorted-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-minimum-in-rotated-sorted-array",
     "gfgUrl": "https://bit.ly/3Az1OJ3",
     "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/nhEMDKMB44g"
   },
   {
     "id": "p-088",
@@ -1402,10 +1402,10 @@
     "subtopic": "Learning BS on 1D Arrays",
     "name": "Find out how many times has an array been rotated",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotation-count-sorted-array",
     "gfgUrl": "https://bit.ly/3dEvWJD",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/jtSiWTPLwd0"
   },
   {
     "id": "p-089",
@@ -1418,10 +1418,10 @@
     "subtopic": "Learning BS on 1D Arrays",
     "name": "Single element in a Sorted Array",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/single-element-in-a-sorted-array",
     "gfgUrl": "https://bit.ly/3AllLTj",
     "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/AZOmHuHadxQ"
   },
   {
     "id": "p-090",
@@ -1434,10 +1434,10 @@
     "subtopic": "Applying BS on 2D Arrays",
     "name": "Find the row with maximum number of 1 ’s",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-row-with-maximum-1s-in-a-sorted-binary-matrix",
     "gfgUrl": "https://bit.ly/3QNDw2W",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/SCz-1TtYxDI"
   },
   {
     "id": "p-091",
@@ -1450,7 +1450,7 @@
     "subtopic": "Applying BS on 2D Arrays",
     "name": "Search in a 2 D matrix",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-sorted-2d-matrix",
     "gfgUrl": "https://bit.ly/3dAwi3Z",
     "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
     "youtubeUrl": "https://youtu.be/ZYpYur0znng"
@@ -1466,10 +1466,10 @@
     "subtopic": "Applying BS on 2D Arrays",
     "name": "Find Peak Element",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-a-peak-element-in-an-array",
     "gfgUrl": "https://bit.ly/3A3mBmf",
     "leetcodeUrl": "https://leetcode.com/problems/find-a-peak-element-ii/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/cXxmbemS6XM"
   },
   {
     "id": "p-093",
@@ -1482,9 +1482,9 @@
     "subtopic": "Applying BS on 2D Arrays",
     "name": "Matrix Median",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/median-of-a-row-wise-sorted-matrix",
     "gfgUrl": "https://bit.ly/3PvwuPk",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/",
     "youtubeUrl": "https://www.youtube.com/watch?v=63fPPOdIr2c&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=62"
   },
   {
@@ -1498,9 +1498,9 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Find square root of a number in log n",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=find-square-root-of-a-number",
     "gfgUrl": "https://bit.ly/3JXtGcE",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
     "youtubeUrl": "https://www.youtube.com/watch?v=WjpswYrS2nY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=62"
   },
   {
@@ -1530,10 +1530,10 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Koko Eating Bananas",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/koko-eating-bananas",
     "gfgUrl": "https://bit.ly/3LSY491",
     "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/qyfekrNni90"
   },
   {
     "id": "p-097",
@@ -1546,10 +1546,10 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Minimum days to make M bouquets",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-days-to-make-m-bouquets",
     "gfgUrl": "https://bit.ly/3CJ9Ezm",
     "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/TXAuxeYBTdg"
   },
   {
     "id": "p-098",
@@ -1562,10 +1562,10 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Find the smallest Divisor",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-smallest-divisor-given-a-threshold",
     "gfgUrl": "https://bit.ly/3SJogFR",
     "leetcodeUrl": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/UvBKTVaG6U8"
   },
   {
     "id": "p-099",
@@ -1578,10 +1578,10 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Capacity to Ship Packages within D Days",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/capacity-to-ship-packages-within-d-days",
     "gfgUrl": "https://bit.ly/3PBInmS",
     "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/MG-Ac4TAvTY"
   },
   {
     "id": "p-100",
@@ -1594,7 +1594,7 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Median of two sorted arrays",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/union-of-two-sorted-arrays",
     "gfgUrl": "https://bit.ly/3K1HwL4",
     "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
     "youtubeUrl": "https://www.youtube.com/watch?v=NTop3VTjmxk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=65"
@@ -1610,7 +1610,7 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Aggressive Cows",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/aggressive-cows",
     "gfgUrl": "https://bit.ly/3rBuE5Z",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=wSOfYesTBRk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=70"
@@ -1626,9 +1626,9 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Book Allocation Problem",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/book-allocation-problem",
     "gfgUrl": "https://bit.ly/3QMrMxP",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
     "youtubeUrl": "https://www.youtube.com/watch?v=gYmWHvRHu-s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=69"
   },
   {
@@ -1642,10 +1642,10 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Split array –Largest Sum",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/split-array-largest-sum",
     "gfgUrl": "https://bit.ly/3Qx0RGs",
     "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://www.youtube.com/watch?v=thUd_WJn6wk&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=20"
   },
   {
     "id": "p-104",
@@ -1658,10 +1658,10 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Kth Missing Positive Number",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=kth-missing-positive-number",
     "gfgUrl": "https://bit.ly/3bUFY9l",
     "leetcodeUrl": "https://leetcode.com/problems/kth-missing-positive-number/#:~:text=Given%20an%20array%20arr%20of,13%2C...%5D.",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/uZ0N_hZpyps"
   },
   {
     "id": "p-105",
@@ -1674,10 +1674,10 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Minimize Max Distance to Gas Station",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimize-maximum-distance-between-gas-stations",
     "gfgUrl": "https://bit.ly/3s40ybG",
     "leetcodeUrl": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://www.youtube.com/watch?v=kMSBvlZ-_HA&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=21"
   },
   {
     "id": "p-106",
@@ -1690,7 +1690,7 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Median of 2 sorted arrays",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/median-of-two-sorted-arrays-of-different-sizes/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/median-of-2-sorted-arrays",
     "gfgUrl": "https://bit.ly/3QPi7Xp",
     "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
     "youtubeUrl": "https://www.youtube.com/watch?v=NTop3VTjmxk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=65"
@@ -1706,7 +1706,7 @@
     "subtopic": "Find Answers by BS in Search Space",
     "name": "Kth element of 2 sorted arrays",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/kth-element-of-two-sorted-arrays",
     "gfgUrl": "https://bit.ly/3Amcomr",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=nv7F4PiLUzo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=66"
@@ -1722,7 +1722,7 @@
     "subtopic": "Basic and Easy String Problems",
     "name": "Remove outermost Paranthesis",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=remove-outermost-parentheses",
     "gfgUrl": "https://bit.ly/3rzwRix",
     "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
     "youtubeUrl": ""
@@ -1754,7 +1754,7 @@
     "subtopic": "Basic and Easy String Problems",
     "name": "Largest odd number in a string",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=largest-odd-number-in-a-string",
     "gfgUrl": "https://bit.ly/3UII5yp",
     "leetcodeUrl": "https://leetcode.com/problems/largest-odd-number-in-string/",
     "youtubeUrl": ""
@@ -1770,7 +1770,7 @@
     "subtopic": "Basic and Easy String Problems",
     "name": "Longest Common Prefix",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-common-prefix",
     "gfgUrl": "https://bit.ly/3QKCyVu",
     "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
     "youtubeUrl": ""
@@ -1786,7 +1786,7 @@
     "subtopic": "Basic and Easy String Problems",
     "name": "Isomorphic String",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=isomorphic-string",
     "gfgUrl": "https://bit.ly/3QwynwI",
     "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
     "youtubeUrl": ""
@@ -1802,7 +1802,7 @@
     "subtopic": "Basic and Easy String Problems",
     "name": "check whether one string is a rotation of another",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3K0HHq5",
     "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
     "youtubeUrl": ""
@@ -1834,7 +1834,7 @@
     "subtopic": "Medium String Problems",
     "name": "Sort Characters by frequency",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-characters-by-frequency",
     "gfgUrl": "https://bit.ly/3dEQp1d",
     "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
     "youtubeUrl": ""
@@ -1850,7 +1850,7 @@
     "subtopic": "Medium String Problems",
     "name": "Maximum Nesting Depth of Paranthesis",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=maximum-nesting-depth-of-the-parentheses",
     "gfgUrl": "https://bit.ly/3xYlR1F",
     "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
     "youtubeUrl": ""
@@ -1866,7 +1866,7 @@
     "subtopic": "Medium String Problems",
     "name": "Roman Number to Integer and vice versa",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3AqBlNv",
     "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
     "youtubeUrl": ""
@@ -1882,7 +1882,7 @@
     "subtopic": "Medium String Problems",
     "name": "Implement Atoi",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3QUHBmf",
     "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
     "youtubeUrl": ""
@@ -1898,7 +1898,7 @@
     "subtopic": "Medium String Problems",
     "name": "Count Number of Substrings",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=count-number-of-substring",
     "gfgUrl": "https://bit.ly/3CfQfYi",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -1914,7 +1914,7 @@
     "subtopic": "Medium String Problems",
     "name": "Longest Palindromic Substring[Do it without DP]",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-palindromic-substring",
     "gfgUrl": "https://bit.ly/3CeQ27D",
     "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
     "youtubeUrl": ""
@@ -1930,7 +1930,7 @@
     "subtopic": "Medium String Problems",
     "name": "Sum of Beauty of all substring",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=sum-of-beauty-of-all-substrings",
     "gfgUrl": "https://bit.ly/3LRh089",
     "leetcodeUrl": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
     "youtubeUrl": ""
@@ -1946,7 +1946,7 @@
     "subtopic": "Medium String Problems",
     "name": "Reverse Every Word in A String",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=reverse-every-word-in-a-string",
     "gfgUrl": "https://bit.ly/3Ul0iSq",
     "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
     "youtubeUrl": ""
@@ -1962,7 +1962,7 @@
     "subtopic": "Learn 1D LinkedList",
     "name": "Introduction to LinkedList, learn about struct, and how is node represented",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3URZnst",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2010,7 +2010,7 @@
     "subtopic": "Learn 1D LinkedList",
     "name": "Find the length of the linkedlist [learn traversal]",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3Po7tpf",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2026,7 +2026,7 @@
     "subtopic": "Learn 1D LinkedList",
     "name": "Search an element in the LL",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3Epriup",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2042,7 +2042,7 @@
     "subtopic": "Learn Doubly LinkedList",
     "name": "Introduction to DLL, learn about struct, and how is node represented",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3V9wY1v",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2058,10 +2058,10 @@
     "subtopic": "Learn Doubly LinkedList",
     "name": "Insert a node in DLL",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/insert-at-end-of-doubly-linked-list/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=insert-node-before-head-in-dll",
     "gfgUrl": "https://bit.ly/3QD4hHs",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/0eKMU10uEDI?si=J5a0pQTosimcO_aA&t=2684"
   },
   {
     "id": "p-130",
@@ -2074,7 +2074,7 @@
     "subtopic": "Learn Doubly LinkedList",
     "name": "Delete a node in DLL",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/delete-last-node-of-a-doubly-linked-list/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=delete-tail-of-dll",
     "gfgUrl": "https://bit.ly/3QlEoMx",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2154,7 +2154,7 @@
     "subtopic": "Medium Problems of LL",
     "name": "Detect a loop in LL",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/detect-cycle-linked-list",
     "gfgUrl": "https://bit.ly/3QN8PLn",
     "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
     "youtubeUrl": "https://www.youtube.com/watch?v=354J83hX7RI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34"
@@ -2170,7 +2170,7 @@
     "subtopic": "Medium Problems of LL",
     "name": "Find the starting point in LL",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-start-of-cycle-linked-list",
     "gfgUrl": "https://bit.ly/3zuBr66",
     "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
     "youtubeUrl": "https://www.youtube.com/watch?v=QfbOhn0WZ88&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=37"
@@ -2186,10 +2186,10 @@
     "subtopic": "Medium Problems of LL",
     "name": "Length of Loop in LL",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/length-of-cycle-linked-list",
     "gfgUrl": "https://bit.ly/3dyXL6m",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/I4g1qbkTPus?si=ONktpqewvx57T8pF"
   },
   {
     "id": "p-138",
@@ -2202,7 +2202,7 @@
     "subtopic": "Medium Problems of LL",
     "name": "Check if LL is palindrome or not",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-a-linked-list-is-a-palindrome",
     "gfgUrl": "https://bit.ly/3JVrnXJ",
     "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
     "youtubeUrl": "https://www.youtube.com/watch?v=-DtNInqFUXs&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=36"
@@ -2218,10 +2218,10 @@
     "subtopic": "Medium Problems of LL",
     "name": "Segrregate odd and even nodes in LL",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/segregate-odd-and-even-nodes-in-linked-list",
     "gfgUrl": "https://bit.ly/3A3aeqe",
     "leetcodeUrl": "https://leetcode.com/problems/odd-even-linked-list/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/qf6qp7GzD5Q?si=JozAyXUdT8EJMSCQ"
   },
   {
     "id": "p-140",
@@ -2234,7 +2234,7 @@
     "subtopic": "Medium Problems of LL",
     "name": "Remove Nth node from the back of the LL",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/remove-the-nth-node-from-the-end-of-a-linked-list",
     "gfgUrl": "https://bit.ly/3pobNKM",
     "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
     "youtubeUrl": "https://www.youtube.com/watch?v=Lhu3MsXZy-Q&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=30"
@@ -2250,10 +2250,10 @@
     "subtopic": "Medium Problems of LL",
     "name": "Delete the middle node of LL",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/delete-the-middle-node-of-a-linked-list",
     "gfgUrl": "https://bit.ly/3QzoU7W",
     "leetcodeUrl": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/#:~:text=You%20are%20given%20the%20head,than%20or%20equal%20to%20x%20.",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/ePpV-_pfOeI?si=Au9GsZkVO57j6SiN"
   },
   {
     "id": "p-142",
@@ -2266,10 +2266,10 @@
     "subtopic": "Medium Problems of LL",
     "name": "Sort LL",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-a-linked-list-using-merge-sort",
     "gfgUrl": "https://bit.ly/3dDuLdO",
     "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/8ocB7a_c-Cc?si=Gv-Y8q8-WyARoV35"
   },
   {
     "id": "p-143",
@@ -2282,7 +2282,7 @@
     "subtopic": "Medium Problems of LL",
     "name": "Sort a LL of 0 ’s 1 ’s and 2 ’s by changing links",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3Ceotvr",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2298,7 +2298,7 @@
     "subtopic": "Medium Problems of LL",
     "name": "Find the intersection point of Y LL",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/intersection-of-two-linked-lists",
     "gfgUrl": "https://bit.ly/3pl5R4W",
     "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
     "youtubeUrl": "https://www.youtube.com/watch?v=u4FWXfgS8jw&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=33"
@@ -2314,10 +2314,10 @@
     "subtopic": "Medium Problems of LL",
     "name": "Add 1 to a number represented by LL",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/add-one-to-number-linked-list",
     "gfgUrl": "https://bit.ly/3piCTD3",
-    "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "leetcodeUrl": "https://leetcode.com/problems/plus-one-linked-list/",
+    "youtubeUrl": "https://youtu.be/aXQWhbvT3w0?si=uRgU9S4r5cVmnUy7"
   },
   {
     "id": "p-146",
@@ -2330,7 +2330,7 @@
     "subtopic": "Medium Problems of LL",
     "name": "Add 2 numbers in LL",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/add-two-numbers-linked-lists-reverse-order",
     "gfgUrl": "https://bit.ly/3JZlGb7",
     "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
     "youtubeUrl": "https://www.youtube.com/watch?v=LBVsXSMOIk4&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=32"
@@ -2346,10 +2346,10 @@
     "subtopic": "Medium Problems of DLL",
     "name": "Delete all occurrences of a key in DLL",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/delete-all-occurrences-of-a-key-in-a-doubly-linked-list",
     "gfgUrl": "https://bit.ly/3zuBr66",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/Mh0NH_SD92k?si=tCYshBRi1upMqSVz"
   },
   {
     "id": "p-148",
@@ -2362,10 +2362,10 @@
     "subtopic": "Medium Problems of DLL",
     "name": "Find pairs with given sum in DLL",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-pairs-with-given-sum-in-doubly-linked-list",
     "gfgUrl": "https://bit.ly/3zWPiBj",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/YitR4dQsddE?si=iZAC259hdngV_OxC"
   },
   {
     "id": "p-149",
@@ -2378,10 +2378,10 @@
     "subtopic": "Medium Problems of DLL",
     "name": "Remove duplicates from sorted DLL",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/remove-duplicates-from-a-sorted-doubly-linked-list",
     "gfgUrl": "https://bit.ly/3FtJUtZ",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/YJKVTnOJXSY?si=AsZoNUoewetsBjr0"
   },
   {
     "id": "p-150",
@@ -2394,7 +2394,7 @@
     "subtopic": "Hard Problems of LL",
     "name": "Reverse LL in group of given size K",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/reverse-linked-list-in-groups-of-size-k/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/reverse-linked-list-k-groups",
     "gfgUrl": "https://bit.ly/3zWPiBj",
     "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
     "youtubeUrl": "https://www.youtube.com/watch?v=Of0HPkk3JgI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34"
@@ -2410,7 +2410,7 @@
     "subtopic": "Hard Problems of LL",
     "name": "Rotate a LL",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/rotate-a-linked-list/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotate-linked-list-right-k-places",
     "gfgUrl": "https://bit.ly/3JXvemY",
     "leetcodeUrl": "https://leetcode.com/problems/rotate-list/description/",
     "youtubeUrl": "https://www.youtube.com/watch?v=9VPm6nEbVPA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=39"
@@ -2426,9 +2426,9 @@
     "subtopic": "Hard Problems of LL",
     "name": "Flattening of LL",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/flattening-a-linked-list/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/flatten-linked-list",
     "gfgUrl": "https://bit.ly/3w9TKf8",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
     "youtubeUrl": "https://www.youtube.com/watch?v=ysytSSXpAI0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=38"
   },
   {
@@ -2442,7 +2442,7 @@
     "subtopic": "Hard Problems of LL",
     "name": "Clone a Linked List with random and next pointer",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/clone-linked-list-with-random-and-next-pointer/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/clone-linked-list-random-pointer",
     "gfgUrl": "https://bit.ly/3PpM6np",
     "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
     "youtubeUrl": "https://www.youtube.com/watch?v=VNf6VynfpdM"
@@ -2458,7 +2458,7 @@
     "subtopic": "Get a Strong Hold",
     "name": "Recursive Implementation of atoi()",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3K4ySLV",
     "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
     "youtubeUrl": ""
@@ -2474,7 +2474,7 @@
     "subtopic": "Get a Strong Hold",
     "name": "Pow(x, n)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=pow(x,n)",
     "gfgUrl": "https://bit.ly/3QLc6uD",
     "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
     "youtubeUrl": "https://youtu.be/l0YC3876qxg"
@@ -2490,7 +2490,7 @@
     "subtopic": "Get a Strong Hold",
     "name": "Count Good numbers",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-good-numbers",
     "gfgUrl": "https://bit.ly/3w6SucH",
     "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers/",
     "youtubeUrl": ""
@@ -2506,7 +2506,7 @@
     "subtopic": "Get a Strong Hold",
     "name": "Sort a stack using recursion",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3Pu0YBn",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2522,7 +2522,7 @@
     "subtopic": "Get a Strong Hold",
     "name": "Reverse a stack using recursion",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3podAiY",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2538,7 +2538,7 @@
     "subtopic": "Subsequences Pattern",
     "name": "Generate all binary strings",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=generate-binary-strings-without-consecutive-1s",
     "gfgUrl": "https://bit.ly/3sI8I9W",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2554,7 +2554,7 @@
     "subtopic": "Subsequences Pattern",
     "name": "Generate Paranthesis",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3K5keUw",
     "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
     "youtubeUrl": ""
@@ -2586,7 +2586,7 @@
     "subtopic": "Subsequences Pattern",
     "name": "Learn All Patterns of Subsequences (Theory)",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=learn-all-patterns-of-subsequences",
     "gfgUrl": "https://bit.ly/3US225G",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=eQCS_v3bw0Q&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=7"
@@ -2602,7 +2602,7 @@
     "subtopic": "Subsequences Pattern",
     "name": "Count all subsequences with sum K",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=count-all-subsequences-with-sum-k",
     "gfgUrl": "https://bit.ly/3SVf1me",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2618,7 +2618,7 @@
     "subtopic": "Subsequences Pattern",
     "name": "Check if there exists a subsequence with sum K",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=check-if-there-exists-a-subsequence-with-sum-k",
     "gfgUrl": "https://bit.ly/3SVf1me",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2634,7 +2634,7 @@
     "subtopic": "Subsequences Pattern",
     "name": "Combination Sum",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/combination-sum-1/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=combination-sum",
     "gfgUrl": "https://bit.ly/3C9bJ91",
     "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
     "youtubeUrl": "https://www.youtube.com/watch?v=OyZFFqQtu98&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49"
@@ -2650,7 +2650,7 @@
     "subtopic": "Subsequences Pattern",
     "name": "Combination Sum-II",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=combination-sum-ii",
     "gfgUrl": "https://bit.ly/3VgczZ2",
     "leetcodeUrl": "https://leetcode.com/problems/combination-sum-ii/",
     "youtubeUrl": "https://www.youtube.com/watch?v=G1fRTGRxXU8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=50"
@@ -2698,7 +2698,7 @@
     "subtopic": "Subsequences Pattern",
     "name": "Combination Sum –III",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=combination-sum-iii",
     "gfgUrl": "https://bit.ly/3CMZFul",
     "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iii/",
     "youtubeUrl": ""
@@ -2714,7 +2714,7 @@
     "subtopic": "Subsequences Pattern",
     "name": "Letter Combinations of a Phone number",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=letter-combinations-of-a-phone-number",
     "gfgUrl": "https://bit.ly/3K1INBO",
     "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
     "youtubeUrl": ""
@@ -2730,7 +2730,7 @@
     "subtopic": "Trying out all Combos / Hard",
     "name": "Palindrome Partitioning",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/palindrome-partitioning/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=palindrome-partitioning",
     "gfgUrl": "https://bit.ly/3T63roP",
     "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning/",
     "youtubeUrl": "https://www.youtube.com/watch?v=WBgsABoClE0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=51"
@@ -2746,7 +2746,7 @@
     "subtopic": "Trying out all Combos / Hard",
     "name": "Word Search",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/word-search-leetcode/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=word-search",
     "gfgUrl": "https://bit.ly/3Ca9xOL",
     "leetcodeUrl": "https://leetcode.com/problems/word-search/",
     "youtubeUrl": ""
@@ -2762,7 +2762,7 @@
     "subtopic": "Trying out all Combos / Hard",
     "name": "N Queen",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=n-queen",
     "gfgUrl": "https://bit.ly/3QurLP8",
     "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
     "youtubeUrl": "https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=57"
@@ -2778,7 +2778,7 @@
     "subtopic": "Trying out all Combos / Hard",
     "name": "Rat in a Maze",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/rat-in-a-maze/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=rat-in-a-maze",
     "gfgUrl": "https://bit.ly/3pkqK0g",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=bLGZhJlt4y0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=60"
@@ -2794,7 +2794,7 @@
     "subtopic": "Trying out all Combos / Hard",
     "name": "Word Break",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=word-break",
     "gfgUrl": "https://bit.ly/3Bqk0Ug",
     "leetcodeUrl": "https://leetcode.com/problems/word-break/",
     "youtubeUrl": ""
@@ -2810,7 +2810,7 @@
     "subtopic": "Trying out all Combos / Hard",
     "name": "M Coloring Problem",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/m-coloring-problem/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=m-coloring-problem",
     "gfgUrl": "https://bit.ly/3Cepqnv",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=wuVwUK25Rfc&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=59"
@@ -2826,7 +2826,7 @@
     "subtopic": "Trying out all Combos / Hard",
     "name": "Sudoko Solver",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/sudoku-solver/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=sudoko-solver",
     "gfgUrl": "https://bit.ly/3PrA5hs",
     "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
     "youtubeUrl": "https://www.youtube.com/watch?v=FWAIf_EVUKE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=58"
@@ -2842,7 +2842,7 @@
     "subtopic": "Trying out all Combos / Hard",
     "name": "Expression Add Operators",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=expression-add-operators",
     "gfgUrl": "https://bit.ly/3yPPZN3",
     "leetcodeUrl": "https://leetcode.com/problems/expression-add-operators/",
     "youtubeUrl": ""
@@ -2858,7 +2858,7 @@
     "subtopic": "Learn Bit Manipulation",
     "name": "Introduction to Bit Manipulation [Theory]",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3Eo8JVW",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2874,10 +2874,10 @@
     "subtopic": "Learn Bit Manipulation",
     "name": "Check if the i-th bit is set or not",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=check-if-the-i-th-bit-is-set-or-not",
     "gfgUrl": "https://bit.ly/3C0kAJR",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
   },
   {
     "id": "p-181",
@@ -2890,10 +2890,10 @@
     "subtopic": "Learn Bit Manipulation",
     "name": "Check if a number is odd or not",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-even-or-odd",
     "gfgUrl": "https://bit.ly/3xDMLvF",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
   },
   {
     "id": "p-182",
@@ -2906,10 +2906,10 @@
     "subtopic": "Learn Bit Manipulation",
     "name": "Check if a number is power of 2 or not",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=check-if-a-number-is-power-of-2-or-not",
     "gfgUrl": "https://bit.ly/3R1ZPlq",
     "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
   },
   {
     "id": "p-183",
@@ -2922,10 +2922,10 @@
     "subtopic": "Learn Bit Manipulation",
     "name": "Count the number of set bits",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=count-the-number-of-set-bits",
     "gfgUrl": "https://bit.ly/3SbiBZ2",
-    "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+    "youtubeUrl": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
   },
   {
     "id": "p-184",
@@ -2938,7 +2938,7 @@
     "subtopic": "Learn Bit Manipulation",
     "name": "Set/Unset the rightmost unset bit",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=set-the-rightmost-unset-bit",
     "gfgUrl": "https://bit.ly/3Sq66IM",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -2954,10 +2954,10 @@
     "subtopic": "Learn Bit Manipulation",
     "name": "Swap two numbers",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=swap-two-numbers",
     "gfgUrl": "https://bit.ly/3qVixAz",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
   },
   {
     "id": "p-186",
@@ -2970,10 +2970,10 @@
     "subtopic": "Learn Bit Manipulation",
     "name": "Divide two integers without using multiplication, division and mod operator",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/divide-two-integers-without-multiplication-division-modulo",
     "gfgUrl": "https://bit.ly/3LyUL6Q",
     "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/pBD4B1tzgVc?si=G9c5pEE-RrzeU6sz"
   },
   {
     "id": "p-187",
@@ -2986,10 +2986,10 @@
     "subtopic": "Interview Problems",
     "name": "Count number of bits to be flipped to convert A to B",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=count-the-number-of-set-bits",
     "gfgUrl": "https://bit.ly/3Skharj",
     "leetcodeUrl": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
   },
   {
     "id": "p-188",
@@ -3002,7 +3002,7 @@
     "subtopic": "Interview Problems",
     "name": "Find the number that appears odd number of times",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3BEb9ya",
     "leetcodeUrl": "https://leetcode.com/problems/single-number/",
     "youtubeUrl": ""
@@ -3018,7 +3018,7 @@
     "subtopic": "Interview Problems",
     "name": "Power Set",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=power-set",
     "gfgUrl": "https://bit.ly/3fdHg04",
     "leetcodeUrl": "https://leetcode.com/problems/subsets/",
     "youtubeUrl": "https://www.youtube.com/watch?v=b7AYbpM5YrE&t=232s"
@@ -3034,7 +3034,7 @@
     "subtopic": "Interview Problems",
     "name": "Fnd xor of numbers from L to R",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3T8xUCf",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -3050,7 +3050,7 @@
     "subtopic": "Interview Problems",
     "name": "Find the two numbers appearing odd number of times",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3DK7O3i",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -3066,7 +3066,7 @@
     "subtopic": "Advanced Maths",
     "name": "Print Prime Factors of a Number",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3C165p8",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -3082,10 +3082,10 @@
     "subtopic": "Advanced Maths",
     "name": "All Divisors of a Number",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-divisors",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/all-divisors-of-a-number/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=all-divisors-of-a-number",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/1xNbjMdbjug?t=1580"
   },
   {
     "id": "p-194",
@@ -3098,7 +3098,7 @@
     "subtopic": "Advanced Maths",
     "name": "Sieve of Eratosthenes",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3fduYVT",
     "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
     "youtubeUrl": ""
@@ -3114,7 +3114,7 @@
     "subtopic": "Advanced Maths",
     "name": "Find Prime Factorisation of a Number using Sieve",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3SPGzbK",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -3130,7 +3130,7 @@
     "subtopic": "Advanced Maths",
     "name": "Power(n, x)",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=power-of-numbers",
     "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
     "youtubeUrl": ""
@@ -3146,7 +3146,7 @@
     "subtopic": "Learning",
     "name": "Implement Stack using Arrays",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/implement-stack-using-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-stack-using-an-array",
     "gfgUrl": "https://bit.ly/3QPJ39w",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=GYptUgnIM_I&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=68"
@@ -3162,7 +3162,7 @@
     "subtopic": "Learning",
     "name": "Implement Queue using Arrays",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/implement-queue-using-array/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-queue-using-an-array",
     "gfgUrl": "https://bit.ly/3C9HLli",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=M6GnoUDpqEE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=72"
@@ -3178,7 +3178,7 @@
     "subtopic": "Learning",
     "name": "Implement Stack using Queue",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/implement-stack-using-single-queue/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=implement-stack-using-queue",
     "gfgUrl": "https://bit.ly/3PrRI0F",
     "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues/",
     "youtubeUrl": "https://www.youtube.com/watch?v=jDZQKzEtbYQ&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=74"
@@ -3194,7 +3194,7 @@
     "subtopic": "Learning",
     "name": "Implement Queue using Stack",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/implement-queue-using-stack/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-queue-using-stacks",
     "gfgUrl": "https://bit.ly/3Quthki",
     "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
     "youtubeUrl": "https://www.youtube.com/watch?v=3Et9MrMc02A&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=75"
@@ -3210,10 +3210,10 @@
     "subtopic": "Learning",
     "name": "Implement stack using Linkedlist",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/implement-stack-using-linked-list/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-stack-using-a-linked-list",
     "gfgUrl": "https://bit.ly/3w6PwVv",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
   },
   {
     "id": "p-202",
@@ -3226,10 +3226,10 @@
     "subtopic": "Learning",
     "name": "Implement queue using Linkedlist",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/implement-queue-using-linked-list/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=implement-queue-using-linkedlist",
     "gfgUrl": "https://bit.ly/3PA7mY0",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
   },
   {
     "id": "p-203",
@@ -3242,7 +3242,7 @@
     "subtopic": "Learning",
     "name": "Check for balanced paranthesis",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/check-for-balanced-parentheses/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-a-binary-tree-is-height-balanced",
     "gfgUrl": "https://bit.ly/3An2IIo",
     "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
     "youtubeUrl": "https://www.youtube.com/watch?v=wkDfsKijrZ8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=74"
@@ -3258,7 +3258,7 @@
     "subtopic": "Learning",
     "name": "Implement Min Stack",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=implement-min-stack",
     "gfgUrl": "https://bit.ly/3JVhFoe",
     "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
     "youtubeUrl": "https://youtu.be/V09NfaGf2ao"
@@ -3274,10 +3274,10 @@
     "subtopic": "Prefix, Infix, PostFix Conversion Problems",
     "name": "Infix to Postfix Conversion using Stack",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/infix-to-postfix/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=infix-to-postfix-conversion",
     "gfgUrl": "https://bit.ly/3JWYj1P",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/4pIc9UBHJtk?si=ryeVvQWpCgwbTQrh"
   },
   {
     "id": "p-206",
@@ -3290,10 +3290,10 @@
     "subtopic": "Prefix, Infix, PostFix Conversion Problems",
     "name": "Prefix to Infix Conversion",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=prefix-to-infix-conversion",
     "gfgUrl": "https://bit.ly/3FwxK3j",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/4pIc9UBHJtk?si=ryeVvQWpCgwbTQrh"
   },
   {
     "id": "p-207",
@@ -3306,10 +3306,10 @@
     "subtopic": "Prefix, Infix, PostFix Conversion Problems",
     "name": "Prefix to Postfix Conversion",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=prefix-to-postfix-conversion",
     "gfgUrl": "https://bit.ly/3DrwCLI",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P"
   },
   {
     "id": "p-208",
@@ -3322,10 +3322,10 @@
     "subtopic": "Prefix, Infix, PostFix Conversion Problems",
     "name": "Postfix to Prefix Conversion",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=postfix-to-prefix-conversion",
     "gfgUrl": "https://bit.ly/3UaWJxk",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P"
   },
   {
     "id": "p-209",
@@ -3338,10 +3338,10 @@
     "subtopic": "Prefix, Infix, PostFix Conversion Problems",
     "name": "Postfix to Infix",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=infix-to-postfix-conversion",
     "gfgUrl": "https://bit.ly/3sNZ1a2",
     "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/4pIc9UBHJtk?si=ryeVvQWpCgwbTQrh"
   },
   {
     "id": "p-210",
@@ -3370,7 +3370,7 @@
     "subtopic": "Monotonic Stack/Queue Problems [VVV. Imp]",
     "name": "Next Greater Element",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/next-greater-element-using-stack/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=next-greater-element",
     "gfgUrl": "https://bit.ly/3QNPQAs",
     "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
     "youtubeUrl": "https://www.youtube.com/watch?v=Du881K7Jtk8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=75"
@@ -3386,10 +3386,10 @@
     "subtopic": "Monotonic Stack/Queue Problems [VVV. Imp]",
     "name": "Next Greater Element 2",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=next-greater-element---2",
     "gfgUrl": "https://bit.ly/3DLe7TX",
     "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/7PrncD7v9YQ?si=UkBc7eVy9HGlBpeW"
   },
   {
     "id": "p-213",
@@ -3402,7 +3402,7 @@
     "subtopic": "Monotonic Stack/Queue Problems [VVV. Imp]",
     "name": "Next Smaller Element",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=next-smaller-element",
     "gfgUrl": "https://bit.ly/3wbhcIL",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -3418,7 +3418,7 @@
     "subtopic": "Monotonic Stack/Queue Problems [VVV. Imp]",
     "name": "Number of NGEs to the right",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=number-of-greater-elements-to-the-right",
     "gfgUrl": "https://bit.ly/3Np2R2H",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -3434,7 +3434,7 @@
     "subtopic": "Monotonic Stack/Queue Problems [VVV. Imp]",
     "name": "Trapping Rainwater",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/trapping-rainwater/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/trapping-rain-water",
     "gfgUrl": "https://bit.ly/3AqMa1W",
     "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
     "youtubeUrl": "https://www.youtube.com/watch?v=m18Hntz4go8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=42"
@@ -3450,10 +3450,10 @@
     "subtopic": "Monotonic Stack/Queue Problems [VVV. Imp]",
     "name": "Sum of subarray minimum",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=sum-of-subarray-minimums",
     "gfgUrl": "https://bit.ly/3yS5XpZ",
     "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/v0e8p9JCgRc?si=XAU7ekECgS5nboRw"
   },
   {
     "id": "p-217",
@@ -3466,10 +3466,10 @@
     "subtopic": "Monotonic Stack/Queue Problems [VVV. Imp]",
     "name": "Stock span problem",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/stock-span-problem",
     "gfgUrl": "https://bit.ly/3dzHopW",
     "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/eay-zoSRkVc?si=deNNe5i38BOAntha"
   },
   {
     "id": "p-218",
@@ -3482,10 +3482,10 @@
     "subtopic": "Monotonic Stack/Queue Problems [VVV. Imp]",
     "name": "Asteroid Collision",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/asteroid-collision",
     "gfgUrl": "https://bit.ly/3Tpi0Tw",
     "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/_eYGqw_VDR4?si=YyxibcHq800RqgIQ"
   },
   {
     "id": "p-219",
@@ -3498,10 +3498,10 @@
     "subtopic": "Monotonic Stack/Queue Problems [VVV. Imp]",
     "name": "Sum of subarray ranges",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=sum-of-subarray-ranges",
     "gfgUrl": "https://bit.ly/3SdfheS",
     "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-ranges/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/gIrMptNPf5M?si=Q_GHuBvzZVs27X_U"
   },
   {
     "id": "p-220",
@@ -3514,10 +3514,10 @@
     "subtopic": "Monotonic Stack/Queue Problems [VVV. Imp]",
     "name": "Remove k Digits",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=remove-k-digits",
     "gfgUrl": "https://bit.ly/3pl6taP",
     "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/jmbuRzYPGrg?si=WN387gwQ7aXWkUao"
   },
   {
     "id": "p-221",
@@ -3530,7 +3530,7 @@
     "subtopic": "Monotonic Stack/Queue Problems [VVV. Imp]",
     "name": "Largest rectangle in a histogram",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/largest-rectangle-in-histogram",
     "gfgUrl": "https://bit.ly/3AnVYd5",
     "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
     "youtubeUrl": "https://www.youtube.com/watch?v=X0X6G-eWgQ8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=81"
@@ -3546,7 +3546,7 @@
     "subtopic": "Monotonic Stack/Queue Problems [VVV. Imp]",
     "name": "Maximal Rectangles",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3C6BF5p",
     "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
     "youtubeUrl": ""
@@ -3562,7 +3562,7 @@
     "subtopic": "Implementation Problems",
     "name": "Sliding Window maximum",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/sliding-window-maximum/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=sliding-window-maximum",
     "gfgUrl": "https://bit.ly/3w7SSri",
     "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
     "youtubeUrl": "https://www.youtube.com/watch?v=CZQGRp93K4k&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=83"
@@ -3578,10 +3578,10 @@
     "subtopic": "Implementation Problems",
     "name": "Stock Span Problem",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/stock-span-problem",
     "gfgUrl": "https://bit.ly/3SSxcZZ",
     "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/eay-zoSRkVc?si=deNNe5i38BOAntha"
   },
   {
     "id": "p-225",
@@ -3594,10 +3594,10 @@
     "subtopic": "Implementation Problems",
     "name": "The Celebrity Problem",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=celebrity-problem",
     "gfgUrl": "https://bit.ly/3dC9IIB",
     "leetcodeUrl": "https://leetcode.com/problems/find-the-celebrity/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/cEadsbTeze4?si=olXYfOs7l-SEn2zl"
   },
   {
     "id": "p-226",
@@ -3610,7 +3610,7 @@
     "subtopic": "Implementation Problems",
     "name": "Rotten Oranges",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotting-oranges",
     "gfgUrl": "https://bit.ly/3R4htWb",
     "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
     "youtubeUrl": "https://www.youtube.com/watch?v=yf3oUhkvqA0"
@@ -3626,7 +3626,7 @@
     "subtopic": "Implementation Problems",
     "name": "LRU cache (IMPORTANT)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/implement-lru-cache/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=lru-cache",
     "gfgUrl": "https://bit.ly/3zZneNN",
     "leetcodeUrl": "https://leetcode.com/problems/lru-cache/",
     "youtubeUrl": "https://www.youtube.com/watch?v=xDEuM5qa0zg&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=77"
@@ -3642,7 +3642,7 @@
     "subtopic": "Implementation Problems",
     "name": "LFU cache",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=lfu-cache",
     "gfgUrl": "https://bit.ly/3fpYDLQ",
     "leetcodeUrl": "https://leetcode.com/problems/lfu-cache/",
     "youtubeUrl": "https://www.youtube.com/watch?v=0PSB9y8ehbk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=79"
@@ -3658,7 +3658,7 @@
     "subtopic": "Medium Problems",
     "name": "Longest Substring Without Repeating Characters",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/length-of-longest-substring-without-any-repeating-character/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-substring-without-repeating-characters",
     "gfgUrl": "https://bit.ly/3wegomm",
     "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
     "youtubeUrl": "https://www.youtube.com/watch?v=qtVh-XEpsJo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=26"
@@ -3674,10 +3674,10 @@
     "subtopic": "Medium Problems",
     "name": "Max Consecutive Ones III",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/max-consecutive-ones-iii",
     "gfgUrl": "https://bit.ly/3RjRcCO",
     "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/3E4JBHSLpYk?si=SoOW64pP6otEKxBw"
   },
   {
     "id": "p-231",
@@ -3690,10 +3690,10 @@
     "subtopic": "Medium Problems",
     "name": "Fruit Into Baskets",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/fruit-into-baskets",
     "gfgUrl": "https://bit.ly/3D6d94w",
-    "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+    "youtubeUrl": "https://youtu.be/e3bs0uA1NhQ?si=gR8pO62u-nJeFAXk"
   },
   {
     "id": "p-232",
@@ -3706,10 +3706,10 @@
     "subtopic": "Medium Problems",
     "name": "longest repeating character replacement",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-repeating-character-replacement",
     "gfgUrl": "https://bit.ly/3WhN89U",
     "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/_eNhaDCr6P0?si=pBWcEjozF5poom0p"
   },
   {
     "id": "p-233",
@@ -3722,10 +3722,10 @@
     "subtopic": "Medium Problems",
     "name": "Binary subarray with sum",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-subarray-with-sum-k",
     "gfgUrl": "https://bit.ly/3S8xsCG",
     "leetcodeUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/frf7qxiN2qU"
   },
   {
     "id": "p-234",
@@ -3738,10 +3738,10 @@
     "subtopic": "Medium Problems",
     "name": "Count number of nice subarrays",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-nice-subarrays",
     "gfgUrl": "https://bit.ly/3xZvUUc",
     "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/j_QOv9OT9Og?si=Oq5-5hyFkzVSOZpP"
   },
   {
     "id": "p-235",
@@ -3754,10 +3754,10 @@
     "subtopic": "Medium Problems",
     "name": "Number of substring containing all three characters",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-substrings-containing-all-three-characters-a-b-and-c",
     "gfgUrl": "https://bit.ly/3xVYTZa",
     "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/xtqN4qlgr8s?si=kuaLHVOLXhh5Z2tW"
   },
   {
     "id": "p-236",
@@ -3770,10 +3770,10 @@
     "subtopic": "Medium Problems",
     "name": "Maximum point you can obtain from cards",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-points-you-can-obtain-from-cards",
     "gfgUrl": "https://bit.ly/3DxaMXw",
     "leetcodeUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/pBWCOCS636U?si=-X64rY67noxvOwrG"
   },
   {
     "id": "p-237",
@@ -3786,10 +3786,10 @@
     "subtopic": "Hard Problems",
     "name": "Longest Substring with At Most K Distinct Characters",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-substring-with-at-most-k-distinct-characters",
     "gfgUrl": "https://bit.ly/3T12HRu",
     "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/teM9ZsVRQyc?si=Kh0_u6aCkkBU3Q33"
   },
   {
     "id": "p-238",
@@ -3802,10 +3802,10 @@
     "subtopic": "Hard Problems",
     "name": "Subarray with k different integers",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=subarrays-with-k-different-integers",
     "gfgUrl": "https://bit.ly/3DLRtee",
     "leetcodeUrl": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/7wYGbV_LsX4?si=KWa48RgLDCvdNqRb"
   },
   {
     "id": "p-239",
@@ -3818,10 +3818,10 @@
     "subtopic": "Hard Problems",
     "name": "Minimum Window Substring",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-window-substring",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1",
     "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/WJaij9ffOIY?si=-xnsWIH84zWU0ICd"
   },
   {
     "id": "p-240",
@@ -3834,7 +3834,7 @@
     "subtopic": "Hard Problems",
     "name": "Minimum Window Subsequence",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=minimum-window-subsequence",
     "gfgUrl": "https://bit.ly/3DnB4uZ",
     "leetcodeUrl": "https://leetcode.com/problems/minimum-window-subsequence/",
     "youtubeUrl": ""
@@ -3850,7 +3850,7 @@
     "subtopic": "Learning",
     "name": "Introduction to Priority Queues using Binary Heaps",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3TSxAHd",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -3866,7 +3866,7 @@
     "subtopic": "Learning",
     "name": "Min Heap and Max Heap Implementation",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=convert-min-heap-to-max-heap",
     "gfgUrl": "https://bit.ly/3weGgP3",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -3882,7 +3882,7 @@
     "subtopic": "Learning",
     "name": "Check if an array represents a min-heap or not",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=check-if-an-array-represents-a-min-heap-",
     "gfgUrl": "https://bit.ly/3AbFrrI",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -3898,7 +3898,7 @@
     "subtopic": "Learning",
     "name": "Convert min Heap to max Heap",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=convert-min-heap-to-max-heap",
     "gfgUrl": "https://bit.ly/3flmw7c",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -3946,7 +3946,7 @@
     "subtopic": "Medium Problems",
     "name": "Sort K sorted array",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=sort-k-sorted-array",
     "gfgUrl": "https://bit.ly/3QLpaAs",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -3962,10 +3962,10 @@
     "subtopic": "Medium Problems",
     "name": "Merge M sorted Lists",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-two-sorted-linked-lists",
     "gfgUrl": "https://bit.ly/3QObTXC",
     "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://www.youtube.com/watch?v=Xb4slcp1U38&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=29"
   },
   {
     "id": "p-249",
@@ -3994,7 +3994,7 @@
     "subtopic": "Medium Problems",
     "name": "Task Scheduler",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=task-scheduler",
     "gfgUrl": "https://bit.ly/3h2Z92Z",
     "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
     "youtubeUrl": ""
@@ -4010,7 +4010,7 @@
     "subtopic": "Medium Problems",
     "name": "Hands of Straights",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3SUfwM8",
     "leetcodeUrl": "https://leetcode.com/problems/hand-of-straights/",
     "youtubeUrl": ""
@@ -4026,7 +4026,7 @@
     "subtopic": "Hard Problems",
     "name": "Design twitter",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=design-twitter",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/design-twitter/1",
     "leetcodeUrl": "https://leetcode.com/problems/design-twitter/",
     "youtubeUrl": ""
@@ -4042,7 +4042,7 @@
     "subtopic": "Hard Problems",
     "name": "Connect `n` ropes with minimal cost",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3t5CS7r",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -4058,7 +4058,7 @@
     "subtopic": "Hard Problems",
     "name": "Kth largest element in a stream of running integers",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/kth-largest-element-stream",
     "gfgUrl": "https://bit.ly/3JZPqEV",
     "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/#:~:text=Implement%20KthLargest%20class%3A,largest%20element%20in%20the%20stream.",
     "youtubeUrl": ""
@@ -4074,7 +4074,7 @@
     "subtopic": "Hard Problems",
     "name": "Maximum Sum Combination",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=maximum-sum-combination",
     "gfgUrl": "https://bit.ly/3sSXvTT",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -4090,7 +4090,7 @@
     "subtopic": "Hard Problems",
     "name": "Find Median from Data Stream",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-median-data-stream",
     "gfgUrl": "https://bit.ly/3QIknj4",
     "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
     "youtubeUrl": ""
@@ -4106,7 +4106,7 @@
     "subtopic": "Hard Problems",
     "name": "K most frequent elements",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=top-k-frequent-elements",
     "gfgUrl": "https://bit.ly/3wcIHla",
     "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
     "youtubeUrl": ""
@@ -4122,10 +4122,10 @@
     "subtopic": "Easy Problems",
     "name": "Assign Cookies",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/assign-cookies",
     "gfgUrl": "https://bit.ly/3Wl3PBd",
     "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/DIX2p7vb9co?si=GofAIDimue-Av0Fi"
   },
   {
     "id": "p-259",
@@ -4138,7 +4138,7 @@
     "subtopic": "Easy Problems",
     "name": "Fractional Knapsack Problem",
     "difficulty": "Easy",
-    "tufUrl": "https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=fractional-knapsack",
     "gfgUrl": "https://bit.ly/3PsqOFL",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=F_DDzYnxO14&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49"
@@ -4170,10 +4170,10 @@
     "subtopic": "Easy Problems",
     "name": "Lemonade Change",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/lemonade-change",
     "gfgUrl": "https://bit.ly/3DoFGRx",
     "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/n_tmibEhO6Q?si=q1NW8MfPy0QU6fIl"
   },
   {
     "id": "p-262",
@@ -4186,10 +4186,10 @@
     "subtopic": "Easy Problems",
     "name": "Valid Paranthesis Checker",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=valid-paranthesis-checker",
     "gfgUrl": "https://bit.ly/3K6ulZA",
     "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/cHT6sG_hUZI?si=XRHeyh7jOaLaTy3g"
   },
   {
     "id": "p-263",
@@ -4202,7 +4202,7 @@
     "subtopic": "Medium/Hard",
     "name": "N meetings in one room",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/n-meetings-in-one-room/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/n-meetings-in-one-room",
     "gfgUrl": "https://bit.ly/3A6Ob1Y",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=II6ziNnub1Q&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=45"
@@ -4218,10 +4218,10 @@
     "subtopic": "Medium/Hard",
     "name": "Jump Game",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/jump-game",
     "gfgUrl": "https://bit.ly/3AbFYKe",
     "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/tZAa_jJ3SwQ?si=voKd7n9VTLDRRNzJ"
   },
   {
     "id": "p-265",
@@ -4234,10 +4234,10 @@
     "subtopic": "Medium/Hard",
     "name": "Jump Game 2",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/jump-game",
     "gfgUrl": "https://bit.ly/3Av2ezM",
     "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/tZAa_jJ3SwQ?si=voKd7n9VTLDRRNzJ"
   },
   {
     "id": "p-266",
@@ -4250,9 +4250,9 @@
     "subtopic": "Medium/Hard",
     "name": "Minimum number of platforms required for a railway",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-platforms-required-for-a-railway-station",
     "gfgUrl": "https://bit.ly/3bXX5Hm",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/",
     "youtubeUrl": "https://www.youtube.com/watch?v=dxVcMDI7vyI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=46"
   },
   {
@@ -4266,7 +4266,7 @@
     "subtopic": "Medium/Hard",
     "name": "Job sequencing Problem",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/job-sequencing-problem/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/job-sequencing-problem",
     "gfgUrl": "https://bit.ly/3Pttpzj",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=LjPx4wQaRIs&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=47"
@@ -4282,10 +4282,10 @@
     "subtopic": "Medium/Hard",
     "name": "Candy",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/candy-distribution-problem",
     "gfgUrl": "https://bit.ly/3h14wzm",
     "leetcodeUrl": "https://leetcode.com/problems/candy/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/IIqVFvKE6RY?si=EjmuXZJNLQLUkEd7"
   },
   {
     "id": "p-269",
@@ -4298,7 +4298,7 @@
     "subtopic": "Medium/Hard",
     "name": "Program for Shortest Job First (or SJF) CPU Scheduling",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3DYCIFb",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -4314,7 +4314,7 @@
     "subtopic": "Medium/Hard",
     "name": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3dtFqHG",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -4330,10 +4330,10 @@
     "subtopic": "Medium/Hard",
     "name": "Insert Interval",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/?s=Insert+Interval",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-interval",
     "gfgUrl": "https://bit.ly/3VeNtc1",
     "leetcodeUrl": "https://leetcode.com/problems/insert-interval/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/xxRE-46OCC8?si=a7aPuIw16zDx2lAa"
   },
   {
     "id": "p-272",
@@ -4346,7 +4346,7 @@
     "subtopic": "Medium/Hard",
     "name": "Merge Intervals",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-overlapping-intervals",
     "gfgUrl": "https://bit.ly/3K6pRlt",
     "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
     "youtubeUrl": "https://www.youtube.com/watch?v=2JzRBPFYbKE&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=6"
@@ -4362,10 +4362,10 @@
     "subtopic": "Medium/Hard",
     "name": "Non-overlapping Intervals",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/non-overlapping-intervals",
     "gfgUrl": "https://bit.ly/3UM6liN",
     "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/HDHQ8lAWakY?si=JVtLqboGdpUTOVjf"
   },
   {
     "id": "p-274",
@@ -4394,9 +4394,9 @@
     "subtopic": "Traversals",
     "name": "Binary Tree Representation in C++",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/binary-tree/binary-tree-representation-in-c/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/diameter-of-a-binary-tree",
     "gfgUrl": "https://bit.ly/3gn5Soh",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
     "youtubeUrl": "https://youtu.be/ctCpP0RFDFc"
   },
   {
@@ -4426,9 +4426,9 @@
     "subtopic": "Traversals",
     "name": "Binary Tree Traversals in Binary Tree",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/binary-tree/binary-tree-traversal-inorder-preorder-postorder/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/diameter-of-a-binary-tree",
     "gfgUrl": "https://bit.ly/3Cb4VIh",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
     "youtubeUrl": "https://youtu.be/jmy0LaGET1I"
   },
   {
@@ -4490,7 +4490,7 @@
     "subtopic": "Traversals",
     "name": "Level order Traversal / Level order traversal in spiral form",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/level-order-traversal-of-a-binary-tree/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-tree-level-order-traversal",
     "gfgUrl": "https://bit.ly/3K6t9VR",
     "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
     "youtubeUrl": "https://youtu.be/EoAsWbO7sqg"
@@ -4586,7 +4586,7 @@
     "subtopic": "Medium Problems",
     "name": "Height of a Binary Tree",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/maximum-depth-of-a-binary-tree/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/diameter-of-a-binary-tree",
     "gfgUrl": "https://bit.ly/3CitiDM",
     "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
     "youtubeUrl": "https://youtu.be/eD3tmO66aBA"
@@ -4618,7 +4618,7 @@
     "subtopic": "Medium Problems",
     "name": "Diameter of Binary Tree",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/diameter-of-a-binary-tree",
     "gfgUrl": "https://bit.ly/3wcfG9l",
     "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
     "youtubeUrl": "https://youtu.be/Rezetez59Nk"
@@ -4634,7 +4634,7 @@
     "subtopic": "Medium Problems",
     "name": "Maximum path sum",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/maximum-sum-path-in-binary-tree/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-tree-maximum-path-sum",
     "gfgUrl": "https://bit.ly/3QAFjbW",
     "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
     "youtubeUrl": "https://youtu.be/WszrfSwMz58"
@@ -4650,7 +4650,7 @@
     "subtopic": "Medium Problems",
     "name": "Check if two trees are identical or not",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/check-if-two-trees-are-identical/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-identical-binary-trees",
     "gfgUrl": "https://bit.ly/3c2K52Z",
     "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
     "youtubeUrl": "https://youtu.be/BhuvF_-PWS0"
@@ -4666,7 +4666,7 @@
     "subtopic": "Medium Problems",
     "name": "Zig Zag Traversal of Binary Tree",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/zig-zag-traversal-of-binary-tree/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=zig-zag-or-spiral-traversal",
     "gfgUrl": "https://bit.ly/3K4mwn5",
     "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
     "youtubeUrl": "https://youtu.be/3OXWEdlIGl4"
@@ -4698,7 +4698,7 @@
     "subtopic": "Medium Problems",
     "name": "Vertical Order Traversal of Binary Tree",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/vertical-order-traversal-of-a-binary-tree",
     "gfgUrl": "https://bit.ly/3pqu1er",
     "leetcodeUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
     "youtubeUrl": "https://youtu.be/q_a6lpbKJdw"
@@ -4746,7 +4746,7 @@
     "subtopic": "Medium Problems",
     "name": "Right/Left View of Binary Tree",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/right-left-view-of-binary-tree/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/left-and-right-views-of-a-binary-tree",
     "gfgUrl": "https://bit.ly/3PCqyE9",
     "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
     "youtubeUrl": "https://youtu.be/KV4mRzTjlAk"
@@ -4762,7 +4762,7 @@
     "subtopic": "Medium Problems",
     "name": "Symmetric Binary Tree",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/check-for-symmetrical-binary-tree/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/diameter-of-a-binary-tree",
     "gfgUrl": "https://bit.ly/3PCqBzP",
     "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
     "youtubeUrl": "https://youtu.be/nKggiEpBE"
@@ -4794,7 +4794,7 @@
     "subtopic": "Hard Problems",
     "name": "LCA in Binary Tree",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/lowest-common-ancestor-for-two-given-nodes/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/diameter-of-a-binary-tree",
     "gfgUrl": "https://bit.ly/3popvgG",
     "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
     "youtubeUrl": "https://youtu.be/_-QHfMDde90"
@@ -4826,7 +4826,7 @@
     "subtopic": "Hard Problems",
     "name": "Check for Children Sum Property",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/check-for-children-sum-property-in-a-binary-tree/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=children-sum-property-in-binary-tree",
     "gfgUrl": "https://bit.ly/3dEr73g",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/fnmisPM6cVo"
@@ -4842,7 +4842,7 @@
     "subtopic": "Hard Problems",
     "name": "Print all the Nodes at a distance of K in a Binary Tree",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3QytIu6",
     "leetcodeUrl": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
     "youtubeUrl": "https://youtu.be/i9ORlEy6EsI"
@@ -4858,7 +4858,7 @@
     "subtopic": "Hard Problems",
     "name": "Minimum time taken to BURN the Binary Tree from a Node",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-time-burn-binary-tree",
     "gfgUrl": "https://bit.ly/3wcg7k1",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/2r5wLmQfD6g"
@@ -4874,7 +4874,7 @@
     "subtopic": "Hard Problems",
     "name": "Count total Nodes in a COMPLETE Binary Tree",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/binary-tree/count-number-of-nodes-in-a-binary-tree/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-nodes-in-a-complete-binary-tree",
     "gfgUrl": "https://bit.ly/3EoPFXM",
     "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes/",
     "youtubeUrl": "https://youtu.be/u-yWemKGWO0"
@@ -4890,7 +4890,7 @@
     "subtopic": "Hard Problems",
     "name": "Requirements needed to construct a Unique Binary Tree | Theory",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3UVCR1U",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/9GMECGQgWrQ"
@@ -4906,7 +4906,7 @@
     "subtopic": "Hard Problems",
     "name": "Construct Binary Tree from inorder and preorder",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/construct-a-binary-tree-from-inorder-and-preorder-traversal/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/construct-a-binary-tree-from-preorder-and-inorder",
     "gfgUrl": "https://bit.ly/3AoZ4N5",
     "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
     "youtubeUrl": "https://youtu.be/aZNaLrVebKQ"
@@ -4954,7 +4954,7 @@
     "subtopic": "Hard Problems",
     "name": "Morris Preorder Traversal of a Binary Tree",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/morris-preorder-traversal-of-a-binary-tree/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/morris-preorder-traversal",
     "gfgUrl": "https://bit.ly/3EORTB9",
     "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
     "youtubeUrl": "https://youtu.be/80Zug6D1_r4"
@@ -4970,7 +4970,7 @@
     "subtopic": "Hard Problems",
     "name": "Morris Inorder Traversal of a Binary Tree",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/morris-inorder-traversal-of-a-binary-tree/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/morris-inorder-traversal",
     "gfgUrl": "https://bit.ly/3tJQiGk",
     "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
     "youtubeUrl": "https://youtu.be/80Zug6D1_r4"
@@ -4986,7 +4986,7 @@
     "subtopic": "Hard Problems",
     "name": "Flatten Binary Tree to LinkedList",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/data-structure/flatten-binary-tree-to-linked-list/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/flatten-binary-tree-to-linked-list",
     "gfgUrl": "https://bit.ly/3PFzwko",
     "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
     "youtubeUrl": "https://youtu.be/sWf7k1x9XR4"
@@ -5002,7 +5002,7 @@
     "subtopic": "Concepts",
     "name": "Introduction to Binary Search Tree",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3gprRLk",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/p7-9UvDQZ3w"
@@ -5018,7 +5018,7 @@
     "subtopic": "Concepts",
     "name": "Search in a Binary Search Tree",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/diameter-of-a-binary-tree",
     "gfgUrl": "https://bit.ly/3Bwj68U",
     "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
     "youtubeUrl": "https://youtu.be/KcNt6v_56cc"
@@ -5034,7 +5034,7 @@
     "subtopic": "Concepts",
     "name": "Find Min/Max in BST",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3f9XkzZ",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -5050,7 +5050,7 @@
     "subtopic": "Practice Problems",
     "name": "Ceil in a Binary Search Tree",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3BULqTJ",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/KSsk8AhdOZA"
@@ -5066,7 +5066,7 @@
     "subtopic": "Practice Problems",
     "name": "Floor in a Binary Search Tree",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3TSbXXE",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/xm_W1ub-K-w"
@@ -5082,7 +5082,7 @@
     "subtopic": "Practice Problems",
     "name": "Insert a given Node in Binary Search Tree",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3SoX3aH",
     "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
     "youtubeUrl": "https://youtu.be/FiFiNvM29ps"
@@ -5098,7 +5098,7 @@
     "subtopic": "Practice Problems",
     "name": "Delete a Node in Binary Search Tree",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3dwYsxi",
     "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-bst/",
     "youtubeUrl": "https://youtu.be/kouxiP_H5WE"
@@ -5114,7 +5114,7 @@
     "subtopic": "Practice Problems",
     "name": "Find K-th smallest/largest element in BST",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/kth-smallest-and-largest-elements-in-a-bst",
     "gfgUrl": "https://bit.ly/3LxFMdo",
     "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
     "youtubeUrl": "https://youtu.be/9TJYWh0adfk"
@@ -5130,7 +5130,7 @@
     "subtopic": "Practice Problems",
     "name": "Check if a tree is a BST or BT",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/validate-binary-search-tree",
     "gfgUrl": "https://bit.ly/3poHDqN",
     "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
     "youtubeUrl": "https://youtu.be/f-sj7I5oXEI"
@@ -5146,7 +5146,7 @@
     "subtopic": "Practice Problems",
     "name": "LCA in Binary Search Tree",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3qRwTC1",
     "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
     "youtubeUrl": "https://youtu.be/cX_kPV_foZc"
@@ -5162,7 +5162,7 @@
     "subtopic": "Practice Problems",
     "name": "Construct a BST from a preorder traversal",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/construct-a-bst-from-preorder-traversal",
     "gfgUrl": "https://bit.ly/3BSI1Un",
     "leetcodeUrl": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
     "youtubeUrl": "https://youtu.be/UmJT3j26t1I"
@@ -5178,7 +5178,7 @@
     "subtopic": "Practice Problems",
     "name": "Inorder Successor/Predecessor in BST",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/inorder-successor-and-predecessor-in-a-bst",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
     "leetcodeUrl": "https://leetcode.com/problems/inorder-successor-in-bst/",
     "youtubeUrl": "https://youtu.be/SXKAD2svfmI"
@@ -5194,7 +5194,7 @@
     "subtopic": "Practice Problems",
     "name": "Merge 2 BST ’s",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3qWZrtS",
     "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-iterator/",
     "youtubeUrl": "https://youtu.be/D2jMcmxU4bs"
@@ -5210,7 +5210,7 @@
     "subtopic": "Practice Problems",
     "name": "Two Sum In BST | Check if there exists a pair with Sum K",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=check-if-there-exists-a-subsequence-with-sum-k",
     "gfgUrl": "https://bit.ly/3BUyCg6",
     "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
     "youtubeUrl": "https://youtu.be/ssL3sHwPeb4"
@@ -5226,7 +5226,7 @@
     "subtopic": "Practice Problems",
     "name": "Recover BST | Correct BST with two nodes swapped",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/recover-binary-search-tree",
     "gfgUrl": "https://bit.ly/3PBJwea",
     "leetcodeUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
     "youtubeUrl": "https://youtu.be/ZWGW7FminDM"
@@ -5242,9 +5242,9 @@
     "subtopic": "Practice Problems",
     "name": "Largest BST in Binary Tree",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/largest-bst-in-binary-tree",
     "gfgUrl": "https://bit.ly/3LxECPd",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-bst-subtree/",
     "youtubeUrl": "https://youtu.be/X0oXMdtUDwo"
   },
   {
@@ -5290,7 +5290,7 @@
     "subtopic": "Learning",
     "name": "Graph Representation | Java",
     "difficulty": "Easy",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3dGuwyv",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/3oI-34aPMWM"
@@ -5354,7 +5354,7 @@
     "subtopic": "Problems on BFS/DFS",
     "name": "Number of provinces (leetcode)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/number-of-provinces/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-provinces",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/number-of-provinces/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=number_of_provinces",
     "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/#:~:text=A%20province%20is%20a%20group,the%20total%20number%20of%20provinces.",
     "youtubeUrl": "https://youtu.be/ACzkVtewUYA"
@@ -5368,12 +5368,12 @@
     "topic": "Graphs [Concepts &Problems]",
     "subtopicId": "Step 15.2",
     "subtopic": "Problems on BFS/DFS",
-    "name": "Connected Components Problem in Matrix",
+    "name": "Number of Islands (Connected Components in Matrix)",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/data-structure/number-of-islands/",
     "gfgUrl": "https://bit.ly/3AxzhDG",
-    "leetcodeUrl": "",
-    "youtubeUrl": ""
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+    "youtubeUrl": "https://www.youtube.com/watch?v=muncqlKJrH0&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=8"
   },
   {
     "id": "p-337",
@@ -5386,7 +5386,7 @@
     "subtopic": "Problems on BFS/DFS",
     "name": "Rotten Oranges",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/rotten-oranges/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotting-oranges",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=rotten_oranges",
     "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
     "youtubeUrl": "https://youtu.be/yf3oUhkvqA0"
@@ -5402,7 +5402,7 @@
     "subtopic": "Problems on BFS/DFS",
     "name": "Flood fill",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/graph/flood-fill-algorithm-graphs/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/flood-fill-algorithm",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/flood-fill-algorithm1856/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=flood-fill-algorithm",
     "leetcodeUrl": "https://leetcode.com/problems/flood-fill/",
     "youtubeUrl": "https://youtu.be/C-2_uSRli8o"
@@ -5434,9 +5434,9 @@
     "subtopic": "Problems on BFS/DFS",
     "name": "Cycle Detection in undirected Graph (dfs)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/detect-a-cycle-in-an-undirected-graph",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=detect-cycle-in-an-undirected-graph",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
     "youtubeUrl": "https://youtu.be/zQ3zgFypzX4"
   },
   {
@@ -5466,7 +5466,7 @@
     "subtopic": "Problems on BFS/DFS",
     "name": "Surrounded Regions (dfs)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/graph/surrounded-regions-replace-os-with-xs/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/surrounded-regions",
     "gfgUrl": "https://bit.ly/3T3oDLR",
     "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
     "youtubeUrl": "https://www.youtube.com/watch?v=BtdgAys4yMk"
@@ -5498,10 +5498,10 @@
     "subtopic": "Problems on BFS/DFS",
     "name": "Word ladder –1",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/graph/word-ladder-i-g-29/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/word-ladder",
     "gfgUrl": "https://bit.ly/3BE8tke",
     "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/tRPda0rcf8E"
   },
   {
     "id": "p-345",
@@ -5514,10 +5514,10 @@
     "subtopic": "Problems on BFS/DFS",
     "name": "Word ladder –2",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/graph/word-ladder-ii-optimised-approach-g-31/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/word-ladder",
     "gfgUrl": "https://bit.ly/3fdDxzC",
     "leetcodeUrl": "https://leetcode.com/problems/word-ladder-ii/",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://youtu.be/tRPda0rcf8E"
   },
   {
     "id": "p-346",
@@ -5530,7 +5530,7 @@
     "subtopic": "Problems on BFS/DFS",
     "name": "Number of Distinct Islands [dfs multisource]",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/number-of-distinct-islands/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-distinct-islands",
     "gfgUrl": "https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1",
     "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-islands-ii/",
     "youtubeUrl": ""
@@ -5546,7 +5546,7 @@
     "subtopic": "Problems on BFS/DFS",
     "name": "Bipartite Graph (DFS)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/graph/bipartite-graph-dfs-implementation/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=bipartite-graph",
     "gfgUrl": "https://bit.ly/3QZN2jf",
     "leetcodeUrl": "https://leetcode.com/problems/is-graph-bipartite/",
     "youtubeUrl": "https://www.youtube.com/watch?v=KG5YFfR0j8A"
@@ -5562,10 +5562,10 @@
     "subtopic": "Problems on BFS/DFS",
     "name": "Cycle Detection in Directed Graph (DFS)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/detect-a-cycle-in-directed-graph-topological-sort-kahns-algorithm-g-23/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/detect-a-cycle-in-a-directed-graph",
     "gfgUrl": "https://bit.ly/3S01qt8",
     "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem",
-    "youtubeUrl": ""
+    "youtubeUrl": "https://www.youtube.com/watch?v=uzVUw90ZFIg&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=12"
   },
   {
     "id": "p-349",
@@ -5610,9 +5610,9 @@
     "subtopic": "Topo Sort and Problems",
     "name": "Cycle Detection in Directed Graph (BFS)",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/detect-a-cycle-in-a-directed-graph",
     "gfgUrl": "https://bit.ly/3DK3elS",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
     "youtubeUrl": "https://www.youtube.com/watch?v=iTBaI90lpDQ&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=23"
   },
   {
@@ -5626,7 +5626,7 @@
     "subtopic": "Topo Sort and Problems",
     "name": "Course Schedule –I",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/course-schedule-i-and-ii-pre-requisite-tasks-topological-sort-g-24/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/course-schedule-i",
     "gfgUrl": "https://bit.ly/3SpUd5m",
     "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
     "youtubeUrl": "https://www.youtube.com/watch?v=WAOfKpxYHR8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=24"
@@ -5642,7 +5642,7 @@
     "subtopic": "Topo Sort and Problems",
     "name": "Course Schedule –II",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/course-schedule-i-and-ii-pre-requisite-tasks-topological-sort-g-24/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/course-schedule-ii",
     "gfgUrl": "https://bit.ly/3w8ZBBl",
     "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
     "youtubeUrl": "https://www.youtube.com/watch?v=WAOfKpxYHR8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=24"
@@ -5658,7 +5658,7 @@
     "subtopic": "Topo Sort and Problems",
     "name": "Find eventual safe states",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/find-eventual-safe-states-bfs-topological-sort-g-25/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-eventual-safe-states",
     "gfgUrl": "https://bit.ly/3S6TE0w",
     "leetcodeUrl": "https://leetcode.com/problems/find-eventual-safe-states/",
     "youtubeUrl": "https://www.youtube.com/watch?v=2gtg3VsDGyc&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=25"
@@ -5674,7 +5674,7 @@
     "subtopic": "Topo Sort and Problems",
     "name": "Alien dictionary",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/alien-dictionary-topological-sort-g-26/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/alien-dictionary",
     "gfgUrl": "https://bit.ly/3LwfXdP",
     "leetcodeUrl": "https://leetcode.com/problems/alien-dictionary/solution/",
     "youtubeUrl": "https://www.youtube.com/watch?v=U3N_je7tWAs&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=26"
@@ -5690,7 +5690,7 @@
     "subtopic": "Shortest Path Algorithms and Problems",
     "name": "Shortest Path in UG with unit weights",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/shortest-path-in-undirected-graph-with-unit-distance-g-28/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-path-in-an-unweighted-undirected-graph-using-bfs",
     "gfgUrl": "https://bit.ly/3UVQD4C",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=C4gxoTaI71U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=28"
@@ -5706,7 +5706,7 @@
     "subtopic": "Shortest Path Algorithms and Problems",
     "name": "Shortest Path in DAG",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/shortest-path-in-directed-acyclic-graph-topological-sort-g-27/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-path-in-a-directed-acyclic-graph-dag",
     "gfgUrl": "https://bit.ly/3Eo1mhq",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZUFQfFaU-8U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=27"
@@ -5754,7 +5754,7 @@
     "subtopic": "Shortest Path Algorithms and Problems",
     "name": "Shortest path in a binary maze",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/g-36-shortest-distance-in-a-binary-maze/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-distance-binary-maze",
     "gfgUrl": "https://bit.ly/3ArrkzD",
     "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
     "youtubeUrl": "https://www.youtube.com/watch?v=U5Mw4eyUmw4&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=36"
@@ -5770,7 +5770,7 @@
     "subtopic": "Shortest Path Algorithms and Problems",
     "name": "Path with minimum effort",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/g-37-path-with-minimum-effort/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/path-with-minimum-effort",
     "gfgUrl": "https://bit.ly/3OpIfbh",
     "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
     "youtubeUrl": "https://www.youtube.com/watch?v=0ytpZyiZFhA&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=37"
@@ -5786,7 +5786,7 @@
     "subtopic": "Shortest Path Algorithms and Problems",
     "name": "Cheapest flights within k stops",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/g-38-cheapest-flights-within-k-stops/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/cheapest-flights-within-k-stops",
     "gfgUrl": "https://bit.ly/3OnPWi4",
     "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
     "youtubeUrl": "https://www.youtube.com/watch?v=9XybHVqTHcQ&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=38"
@@ -5802,7 +5802,7 @@
     "subtopic": "Shortest Path Algorithms and Problems",
     "name": "Network Delay time",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/network-delay-time",
     "gfgUrl": "https://bit.ly/3pr6ObZ",
     "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
     "youtubeUrl": ""
@@ -5818,7 +5818,7 @@
     "subtopic": "Shortest Path Algorithms and Problems",
     "name": "Number of ways to arrive at destination",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/g-40-number-of-ways-to-arrive-at-destination/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-ways-to-arrive-at-destination",
     "gfgUrl": "https://bit.ly/3Soi85j-arrive-at-destination/1",
     "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
     "youtubeUrl": "https://www.youtube.com/watch?v=_-0mx0SmYxA&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=40"
@@ -5850,7 +5850,7 @@
     "subtopic": "Shortest Path Algorithms and Problems",
     "name": "Bellman Ford Algorithm",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/bellman-ford-algorithm",
     "gfgUrl": "https://bit.ly/3C0SxKs",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=0vVofAhAYjc&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=41"
@@ -5866,7 +5866,7 @@
     "subtopic": "Shortest Path Algorithms and Problems",
     "name": "Floyd Warshal Algorithm",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=floyd-warshall-algorithm",
     "gfgUrl": "https://bit.ly/3LwgdJP",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=YbY8cVwWAvw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=42"
@@ -5882,7 +5882,7 @@
     "subtopic": "Shortest Path Algorithms and Problems",
     "name": "Find the city with the smallest number of neighbors in a threshold distance",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/find-the-city-with-the-smallest-number-of-neighbours-at-a-threshold-distance-g-43/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-city-smallest-number-neighbors-threshold-distance",
     "gfgUrl": "https://bit.ly/3Lwr5Y4",
     "leetcodeUrl": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
     "youtubeUrl": "https://youtu.be/PwMVNSJ5SLI"
@@ -5978,7 +5978,7 @@
     "subtopic": "MinimumSpanningTree/Disjoint Set and Problems",
     "name": "Number of operations to make network connected",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/number-of-operations-to-make-network-connected-dsu-g-49/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=number-of-operations-to-make-network-connected",
     "gfgUrl": "https://bit.ly/3Esuzrd",
     "leetcodeUrl": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
     "youtubeUrl": "https://youtu.be/FYrl7iz9_ZU"
@@ -5994,7 +5994,7 @@
     "subtopic": "MinimumSpanningTree/Disjoint Set and Problems",
     "name": "Most stones removed with same rows or columns",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/most-stones-removed-with-same-row-or-column-dsu-g-53/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/most-stones-removed-same-row-column",
     "gfgUrl": "https://bit.ly/3Ep4Tfo",
     "leetcodeUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
     "youtubeUrl": "https://youtu.be/OwMNX8SPavM"
@@ -6010,7 +6010,7 @@
     "subtopic": "MinimumSpanningTree/Disjoint Set and Problems",
     "name": "Accounts merge",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/accounts-merge-dsu-g-50/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=accounts-merge",
     "gfgUrl": "https://bit.ly/3C03qMi",
     "leetcodeUrl": "https://leetcode.com/problems/accounts-merge/",
     "youtubeUrl": "https://youtu.be/FMwpt_aQOGw"
@@ -6042,7 +6042,7 @@
     "subtopic": "MinimumSpanningTree/Disjoint Set and Problems",
     "name": "Making a Large Island",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/making-a-large-island-dsu-g-52/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/making-a-large-island",
     "gfgUrl": "https://bit.ly/3i1yOmk",
     "leetcodeUrl": "https://leetcode.com/problems/making-a-large-island/",
     "youtubeUrl": "https://youtu.be/lgiz0Oup6gM"
@@ -6058,7 +6058,7 @@
     "subtopic": "MinimumSpanningTree/Disjoint Set and Problems",
     "name": "Swim in rising water",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=swim-in-rising-water",
     "gfgUrl": "https://bit.ly/3VftZ7i",
     "leetcodeUrl": "https://leetcode.com/problems/swim-in-rising-water/",
     "youtubeUrl": ""
@@ -6074,7 +6074,7 @@
     "subtopic": "Other Algorithms",
     "name": "Bridges in Graph",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/graph/bridges-in-graph-using-tarjans-algorithm-of-time-in-and-low-time-g-55/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/bridges-in-graph-tarjan-algorithm",
     "gfgUrl": "https://bit.ly/3dFdvVe",
     "leetcodeUrl": "https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph",
     "youtubeUrl": "https://youtu.be/qrAub5z8FeA"
@@ -6090,7 +6090,7 @@
     "subtopic": "Other Algorithms",
     "name": "Articulation Point",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/articulation-point-in-graph-g-56/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/articulation-points-in-graph",
     "gfgUrl": "https://bit.ly/3T2LPKu",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/j1QDfU21iZk"
@@ -6106,9 +6106,9 @@
     "subtopic": "Other Algorithms",
     "name": "Kosaraju ’s Algorithm",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/kosarajus-algorithm",
     "gfgUrl": "https://bit.ly/3TbvByL",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on",
     "youtubeUrl": "https://youtu.be/R6uoSjZ2imo"
   },
   {
@@ -6154,7 +6154,7 @@
     "subtopic": "1D DP",
     "name": "Frog Jump(DP-3)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/dynamic-programming-frog-jump-dp-3/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/frog-jump-minimum-energy",
     "gfgUrl": "https://bit.ly/3Xn0Kkw",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=EgG3jsGoPvQ"
@@ -6170,7 +6170,7 @@
     "subtopic": "1D DP",
     "name": "Frog Jump with k distances(DP-4)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/dynamic-programming-frog-jump-with-k-distances-dp-4/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/frog-jump-with-k-distances",
     "gfgUrl": "https://bit.ly/3GyNRya",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=Kmh3rhyEtB8"
@@ -6186,9 +6186,9 @@
     "subtopic": "1D DP",
     "name": "Maximum sum of non-adjacent elements (DP 5)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/maximum-sum-of-non-adjacent-elements-dp-5/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-sum-of-non-adjacent-elements",
     "gfgUrl": "https://bit.ly/3QOMRs1",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
     "youtubeUrl": "https://www.youtube.com/watch?v=GrMBfJNk_NY"
   },
   {
@@ -6202,9 +6202,9 @@
     "subtopic": "1D DP",
     "name": "House Robber (DP 6)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/dynamic-programming-house-robber-dp-6/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/house-robber-ii",
     "gfgUrl": "https://bit.ly/3QCCpDQ",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
     "youtubeUrl": "https://www.youtube.com/watch?v=3WaxQMELSkw"
   },
   {
@@ -6218,7 +6218,7 @@
     "subtopic": "2D/3D DP and DP on Grids",
     "name": "Ninja’s Training (DP 7)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/dynamic-programming-ninjas-training-dp-7/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/ninjas-training",
     "gfgUrl": "https://bit.ly/3glc9kp",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=AE39gJYuRog"
@@ -6234,7 +6234,7 @@
     "subtopic": "2D/3D DP and DP on Grids",
     "name": "Grid Unique Paths : DP on Grids (DP8)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/grid-unique-paths-dp-on-grids-dp8/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/grid-unique-paths",
     "gfgUrl": "https://bit.ly/3BsNkJO",
     "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
     "youtubeUrl": "https://www.youtube.com/watch?v=sdE0A2Oxofw"
@@ -6250,7 +6250,7 @@
     "subtopic": "2D/3D DP and DP on Grids",
     "name": "Grid Unique Paths 2 (DP 9)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/grid-unique-paths-2-dp-9/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/grid-unique-paths",
     "gfgUrl": "https://bit.ly/3tNYlBU",
     "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii/",
     "youtubeUrl": "https://www.youtube.com/watch?v=TmhpgXScLyY"
@@ -6266,7 +6266,7 @@
     "subtopic": "2D/3D DP and DP on Grids",
     "name": "Minimum path sum in Grid (DP 10)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-falling-path-sum",
     "gfgUrl": "https://bit.ly/3c1H9Uf",
     "leetcodeUrl": "https://leetcode.com/problems/minimum-path-sum/",
     "youtubeUrl": "https://www.youtube.com/watch?v=_rgTlyky1uQ"
@@ -6282,7 +6282,7 @@
     "subtopic": "2D/3D DP and DP on Grids",
     "name": "Minimum path sum in Triangular Grid (DP 11)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/minimum-path-sum-in-triangular-grid-dp-11/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-falling-path-sum",
     "gfgUrl": "https://bit.ly/3VaQIkI",
     "leetcodeUrl": "https://leetcode.com/problems/triangle/",
     "youtubeUrl": "https://www.youtube.com/watch?v=SrP-PiLSYC0"
@@ -6298,7 +6298,7 @@
     "subtopic": "2D/3D DP and DP on Grids",
     "name": "Minimum/Maximum Falling Path Sum (DP-12)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/minimum-maximum-falling-path-sum-dp-12/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-falling-path-sum",
     "gfgUrl": "https://bit.ly/3PwqvtO",
     "leetcodeUrl": "https://leetcode.com/problems/minimum-falling-path-sum/",
     "youtubeUrl": "https://www.youtube.com/watch?v=N_aJ5qQbYA0"
@@ -6330,7 +6330,7 @@
     "subtopic": "DP on Subsequences",
     "name": "Subset sum equal to target (DP- 14)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/subset-sum-equal-to-target",
     "gfgUrl": "https://bit.ly/3S6ljPd",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=fWX9xDmIzRI"
@@ -6346,7 +6346,7 @@
     "subtopic": "DP on Subsequences",
     "name": "Partition Equal Subset Sum (DP- 15)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/partition-equal-subset-sum-dp-15/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=partition-equal-subset-sum",
     "gfgUrl": "https://bit.ly/3E14123",
     "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
     "youtubeUrl": "https://www.youtube.com/watch?v=7win3dcgo3k"
@@ -6362,7 +6362,7 @@
     "subtopic": "DP on Subsequences",
     "name": "Partition Set Into 2 Subsets With Min Absolute Sum Diff (DP- 16)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/partition-set-into-2-subsets-with-min-absolute-sum-diff-dp-16/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference",
     "gfgUrl": "https://bit.ly/3S6uVtg",
     "leetcodeUrl": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
     "youtubeUrl": "https://www.youtube.com/watch?v=GS_OqZb2CWc"
@@ -6378,7 +6378,7 @@
     "subtopic": "DP on Subsequences",
     "name": "Count Subsets with Sum K (DP – 17)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/count-subsets-with-sum-k-dp-17/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-subsets-with-sum-k",
     "gfgUrl": "https://bit.ly/3AwVr8I",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZHyb-A2Mte4"
@@ -6394,7 +6394,7 @@
     "subtopic": "DP on Subsequences",
     "name": "Count Partitions with Given Difference (DP – 18)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/count-partitions-with-given-difference-dp-18/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-partitions-with-a-given-difference",
     "gfgUrl": "https://bit.ly/3gkAM0s",
     "leetcodeUrl": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=zoilQD1kYSg"
@@ -6426,7 +6426,7 @@
     "subtopic": "DP on Subsequences",
     "name": "Minimum Coins (DP – 20)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/minimum-coins-dp-20/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=minimum-coins",
     "gfgUrl": "https://bit.ly/3UG0egq",
     "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
     "youtubeUrl": "https://www.youtube.com/watch?v=myPeWb3Y68A"
@@ -6442,7 +6442,7 @@
     "subtopic": "DP on Subsequences",
     "name": "Target Sum (DP – 21)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/target-sum-dp-21/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=target-sum",
     "gfgUrl": "https://bit.ly/3BxB2jr",
     "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
     "youtubeUrl": "https://www.youtube.com/watch?v=b3GD8263-PQ"
@@ -6458,7 +6458,7 @@
     "subtopic": "DP on Subsequences",
     "name": "Coin Change 2 (DP – 22)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/coin-change-2-dp-22/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/coin-change-ii-combinations",
     "gfgUrl": "https://bit.ly/3SZJWOl",
     "leetcodeUrl": "https://leetcode.com/problems/coin-change-2/",
     "youtubeUrl": "https://www.youtube.com/watch?v=HgyouUi11zk"
@@ -6474,7 +6474,7 @@
     "subtopic": "DP on Subsequences",
     "name": "Unbounded Knapsack (DP – 23)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/unbounded-knapsack-dp-23/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/unbounded-knapsack",
     "gfgUrl": "https://bit.ly/3Cbc5fz",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/OgvOZ6OrJoY"
@@ -6490,7 +6490,7 @@
     "subtopic": "DP on Subsequences",
     "name": "Rod Cutting Problem | (DP – 24)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/rod-cutting-problem-dp-24/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/rod-cutting-problem",
     "gfgUrl": "https://bit.ly/3R1TXZh",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/mO8XpGoJwuo"
@@ -6506,7 +6506,7 @@
     "subtopic": "DP on Strings",
     "name": "Longest Common Subsequence | (DP – 25)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/longest-common-subsequence-dp-25/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-common-subsequence",
     "gfgUrl": "https://bit.ly/3f6eDlE",
     "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
     "youtubeUrl": "https://youtu.be/NPZn9jBrX8U"
@@ -6522,7 +6522,7 @@
     "subtopic": "DP on Strings",
     "name": "Print Longest Common Subsequence | (DP – 26)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/print-longest-common-subsequence-dp-26/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/print-longest-increasing-subsequence",
     "gfgUrl": "https://bit.ly/3T1Va4U",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/-zI4mrF2Pb4"
@@ -6538,7 +6538,7 @@
     "subtopic": "DP on Strings",
     "name": "Longest Common Substring | (DP – 27)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/longest-common-substring-dp-27/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-common-substring",
     "gfgUrl": "https://bit.ly/3qYUeBK",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/_wP9mWNPL5w"
@@ -6554,7 +6554,7 @@
     "subtopic": "DP on Strings",
     "name": "Longest Palindromic Subsequence | (DP-28)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/longest-palindromic-subsequence-dp-28/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-palindromic-subsequence",
     "gfgUrl": "https://bit.ly/3SndYdP",
     "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/",
     "youtubeUrl": "https://youtu.be/6i_T5kkfv4A"
@@ -6570,7 +6570,7 @@
     "subtopic": "DP on Strings",
     "name": "Minimum insertions to make string palindrome | DP-29",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/minimum-insertions-to-make-string-palindrome-dp-29/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=minimum-insertions-to-make-string-palindrome",
     "gfgUrl": "https://bit.ly/3S6ekWx",
     "leetcodeUrl": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
     "youtubeUrl": "https://www.youtube.com/watch?v=xPBLEj41rFU"
@@ -6586,7 +6586,7 @@
     "subtopic": "DP on Strings",
     "name": "Minimum Insertions/Deletions to Convert String | (DP- 30)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/minimum-insertions-deletions-to-convert-string-dp-30/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=minimum-insertions-or-deletions-to-convert-string-a-to-b",
     "gfgUrl": "https://bit.ly/3UwoktW",
     "leetcodeUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/",
     "youtubeUrl": "https://www.youtube.com/watch?v=yMnH0jrir0Q"
@@ -6602,7 +6602,7 @@
     "subtopic": "DP on Strings",
     "name": "Shortest Common Supersequence | (DP – 31)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/shortest-common-supersequence-dp-31/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=shortest-common-supersequence",
     "gfgUrl": "https://bit.ly/3R8AIxc",
     "leetcodeUrl": "https://leetcode.com/problems/shortest-common-supersequence/",
     "youtubeUrl": "https://youtu.be/xElxAuBcvsU"
@@ -6618,7 +6618,7 @@
     "subtopic": "DP on Strings",
     "name": "Distinct Subsequences| (DP-32)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/distinct-subsequences-dp-32/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=distinct-subsequences",
     "gfgUrl": "https://bit.ly/3Lz0Wry",
     "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences/",
     "youtubeUrl": "https://youtu.be/nVG7eTiD2bY"
@@ -6634,7 +6634,7 @@
     "subtopic": "DP on Strings",
     "name": "Edit Distance | (DP-33)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/edit-distance-dp-33/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=edit-distance",
     "gfgUrl": "https://bit.ly/3qZueWY",
     "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
     "youtubeUrl": "https://youtu.be/fJaKO8FbDdo"
@@ -6650,7 +6650,7 @@
     "subtopic": "DP on Strings",
     "name": "Wildcard Matching | (DP-34)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/wildcard-matching-dp-34/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=wildcard-matching",
     "gfgUrl": "https://bit.ly/3R2Zfnp",
     "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
     "youtubeUrl": "https://youtu.be/ZmlQ3vgAOMo"
@@ -6666,7 +6666,7 @@
     "subtopic": "DP on Stocks",
     "name": "Best Time to Buy and Sell Stock |(DP-35)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/stock-buy-and-sell-dp-35/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock",
     "gfgUrl": "https://bit.ly/3xI7ajb",
     "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
     "youtubeUrl": "https://youtu.be/excAOvwF_Wk"
@@ -6682,7 +6682,7 @@
     "subtopic": "DP on Stocks",
     "name": "Buy and Sell Stock – II|(DP-36)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/buy-and-sell-stock-ii-dp-36/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock",
     "gfgUrl": "https://bit.ly/3gkV5en",
     "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
     "youtubeUrl": "https://youtu.be/nGJmxkUJQGs"
@@ -6714,7 +6714,7 @@
     "subtopic": "DP on Stocks",
     "name": "Buy and Stock Sell IV |(DP-38)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/buy-and-sell-stock-iv-dp-38/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock",
     "gfgUrl": "https://bit.ly/3SpU1TE",
     "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
     "youtubeUrl": "https://youtu.be/IV1dHbk5CDc"
@@ -6730,7 +6730,7 @@
     "subtopic": "DP on Stocks",
     "name": "Buy and Sell Stocks With Cooldown|(DP-39)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/buy-and-sell-stocks-with-cooldown-dp-39/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-with-cooldown",
     "gfgUrl": "https://bit.ly/3GycvyA",
     "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
     "youtubeUrl": "https://youtu.be/IGIe46xw3YY"
@@ -6762,7 +6762,7 @@
     "subtopic": "DP on LIS",
     "name": "Longest Increasing Subsequence |(DP-41)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/longest-increasing-subsequence-dp-41/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-increasing-subsequence",
     "gfgUrl": "https://bit.ly/3eYunab",
     "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
     "youtubeUrl": "https://youtu.be/ekcwMsSIzVc"
@@ -6778,9 +6778,9 @@
     "subtopic": "DP on LIS",
     "name": "Printing Longest Increasing Subsequence|(DP-42)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/printing-longest-increasing-subsequence-dp-42/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-increasing-subsequence",
     "gfgUrl": "https://bit.ly/3XiRbmG",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
     "youtubeUrl": "https://youtu.be/IFfYfonAFGc"
   },
   {
@@ -6794,9 +6794,9 @@
     "subtopic": "DP on LIS",
     "name": "Longest Increasing Subsequence |(DP-43)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/longest-increasing-subsequence-binary-search-dp-43/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-increasing-subsequence",
     "gfgUrl": "https://bit.ly/3Pxf84L",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
     "youtubeUrl": "https://youtu.be/on2hvxBXJH4"
   },
   {
@@ -6810,7 +6810,7 @@
     "subtopic": "DP on LIS",
     "name": "Largest Divisible Subset|(DP-44)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/longest-divisible-subset-dp-44/",
+    "tufUrl": "https://takeuforward.org/blogs/data-structure-and-algorithm/largest-divisible-subset",
     "gfgUrl": "https://bit.ly/3hYsWKC",
     "leetcodeUrl": "https://leetcode.com/problems/largest-divisible-subset/",
     "youtubeUrl": "https://youtu.be/gDuZwBW9VvM"
@@ -6826,7 +6826,7 @@
     "subtopic": "DP on LIS",
     "name": "Longest String Chain|(DP-45)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/longest-string-chain-dp-45/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-string-chain",
     "gfgUrl": "https://bit.ly/3TSqOkS",
     "leetcodeUrl": "https://leetcode.com/problems/longest-string-chain/",
     "youtubeUrl": "https://youtu.be/YY8iBaYcc4g"
@@ -6842,7 +6842,7 @@
     "subtopic": "DP on LIS",
     "name": "Longest Bitonic Subsequence |(DP-46)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-bitonic-subsequence",
     "gfgUrl": "https://bit.ly/3BARIGF",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/y4vN0WNdrlg"
@@ -6858,7 +6858,7 @@
     "subtopic": "DP on LIS",
     "name": "Number of Longest Increasing Subsequences|(DP-47)",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=number-of-longest-increasing-subsequences",
     "gfgUrl": "https://bit.ly/3EohD60",
     "leetcodeUrl": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
     "youtubeUrl": "https://youtu.be/cKVl1TFdNXg"
@@ -6874,7 +6874,7 @@
     "subtopic": "MCM DP | Partition DP",
     "name": "Matrix Chain Multiplication|(DP-48)",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=matrix-chain-multiplication",
     "gfgUrl": "https://bit.ly/3Cgg36D",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/vRVfmbCFW7Y"
@@ -6890,7 +6890,7 @@
     "subtopic": "MCM DP | Partition DP",
     "name": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=matrix-chain-multiplication",
     "gfgUrl": "https://bit.ly/3Cgg36D",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/pDCXsbAw5Cg"
@@ -6906,7 +6906,7 @@
     "subtopic": "MCM DP | Partition DP",
     "name": "Minimum Cost to Cut the Stick|(DP-50)",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=minimum-cost-to-cut-the-stick",
     "gfgUrl": "https://bit.ly/3K3ItCE",
     "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
     "youtubeUrl": "https://youtu.be/xwomavsC86c"
@@ -6922,7 +6922,7 @@
     "subtopic": "MCM DP | Partition DP",
     "name": "Burst Balloons|(DP-51)",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=burst-balloons",
     "gfgUrl": "https://bit.ly/3A9LdKp",
     "leetcodeUrl": "https://leetcode.com/problems/burst-balloons/",
     "youtubeUrl": "https://youtu.be/Yz4LlDSlkns"
@@ -6938,7 +6938,7 @@
     "subtopic": "MCM DP | Partition DP",
     "name": "Evaluate Boolean Expression to True|(DP-52)",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=different-ways-to-evaluate-a-boolean-expression",
     "gfgUrl": "https://bit.ly/3QFAe2o",
     "leetcodeUrl": "https://leetcode.com/problems/parsing-a-boolean-expression/",
     "youtubeUrl": "https://youtu.be/MM7fXopgyjw"
@@ -6954,7 +6954,7 @@
     "subtopic": "MCM DP | Partition DP",
     "name": "Palindrome Partitioning – II|(DP-53)",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=palindrome-partitioning",
     "gfgUrl": "https://bit.ly/3QP6gsc",
     "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii/",
     "youtubeUrl": "https://youtu.be/_H8V5hJUGd0"
@@ -6970,7 +6970,7 @@
     "subtopic": "MCM DP | Partition DP",
     "name": "Partition Array for Maximum Sum|(DP-54)",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=partition-array-for-maximum-sum",
     "gfgUrl": "https://bit.ly/3AUSIGj",
     "leetcodeUrl": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
     "youtubeUrl": "https://youtu.be/PhWWJmaKfMc"
@@ -7002,7 +7002,7 @@
     "subtopic": "DP on Squares",
     "name": "Count Square Submatrices with All Ones|(DP-56)",
     "difficulty": "Hard",
-    "tufUrl": "https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=count-square-submatrices-with-all-one",
     "gfgUrl": "https://bit.ly/3UW7u7o",
     "leetcodeUrl": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
     "youtubeUrl": "https://youtu.be/auS1fynpnjo"
@@ -7050,9 +7050,9 @@
     "subtopic": "Problems",
     "name": "Longest String with All Prefixes",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-word-with-all-prefixes",
     "gfgUrl": "https://bit.ly/3Qx5AYB",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-word-with-all-prefixes/",
     "youtubeUrl": "https://www.youtube.com/watch?v=AWnBa91lThI&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=3"
   },
   {
@@ -7066,9 +7066,9 @@
     "subtopic": "Problems",
     "name": "Number of Distinct Substrings in a String",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/number-of-distinct-substrings-in-a-string-using-trie/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=number-of-distinct-substrings-in-a-string",
     "gfgUrl": "https://bit.ly/3UoqdsB",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/",
     "youtubeUrl": "https://www.youtube.com/watch?v=RV0QeTyHZxo&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=4"
   },
   {
@@ -7082,7 +7082,7 @@
     "subtopic": "Problems",
     "name": "Bit PreRequisites for TRIE Problems",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=bit-prerequisites-for-trie-problems",
     "gfgUrl": "https://bit.ly/3Vw4XB1",
     "leetcodeUrl": "",
     "youtubeUrl": "https://youtu.be/5iyuU4hQFrw"
@@ -7098,7 +7098,7 @@
     "subtopic": "Problems",
     "name": "Maximum XOR of two numbers in an array",
     "difficulty": "Medium",
-    "tufUrl": "https://takeuforward.org/data-structure/maximum-xor-of-two-numbers-in-an-array/",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=maximum-xor-of-two-numbers-in-an-array",
     "gfgUrl": "https://bit.ly/3Bypqwp",
     "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
     "youtubeUrl": "https://www.youtube.com/watch?v=EIhAwfHubE8&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=6"
@@ -7114,7 +7114,7 @@
     "subtopic": "Problems",
     "name": "Maximum XOR With an Element From Array",
     "difficulty": "Medium",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=maximum-xor-with-an-element-from-an-array",
     "gfgUrl": "https://bit.ly/3tNYB3Y",
     "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
     "youtubeUrl": "https://www.youtube.com/watch?v=Q8LhG9Pi5KM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=7"
@@ -7130,7 +7130,7 @@
     "subtopic": "Hard Problems",
     "name": "Minimum number of bracket reversals needed to make an expression balanced",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=minimum-number-of-bracket-reversals-to-make-an-expression-balanced",
     "gfgUrl": "https://bit.ly/3RiQ82d",
     "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
     "youtubeUrl": ""
@@ -7146,7 +7146,7 @@
     "subtopic": "Hard Problems",
     "name": "Count and say",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=count-and-say",
     "gfgUrl": "https://bit.ly/3AFdLwR",
     "leetcodeUrl": "https://leetcode.com/problems/count-and-say/",
     "youtubeUrl": ""
@@ -7162,7 +7162,7 @@
     "subtopic": "Hard Problems",
     "name": "Hashing In Strings | Theory",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=hashing-in-strings-theory",
     "gfgUrl": "https://bit.ly/3glak75",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -7178,9 +7178,9 @@
     "subtopic": "Hard Problems",
     "name": "Rabin Karp",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=rabin-karp-algorithm",
     "gfgUrl": "https://bit.ly/3SkQqGw",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
     "youtubeUrl": ""
   },
   {
@@ -7194,7 +7194,7 @@
     "subtopic": "Hard Problems",
     "name": "Z-Function",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=z-function",
     "gfgUrl": "https://bit.ly/3dBLAGb",
     "leetcodeUrl": "",
     "youtubeUrl": ""
@@ -7210,9 +7210,9 @@
     "subtopic": "Hard Problems",
     "name": "KMP algo / LPS(pi) array",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=kmp-algorithm-or-lps-array",
     "gfgUrl": "https://bit.ly/3fdJzQM",
-    "leetcodeUrl": "",
+    "leetcodeUrl": "https://leetcode.com/problems/implement-strstr/",
     "youtubeUrl": ""
   },
   {
@@ -7226,7 +7226,7 @@
     "subtopic": "Hard Problems",
     "name": "Shortest Palindrome",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=shortest-palindrome",
     "gfgUrl": "https://bit.ly/3PxCaIE",
     "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome/",
     "youtubeUrl": ""
@@ -7242,7 +7242,7 @@
     "subtopic": "Hard Problems",
     "name": "Longest happy prefix",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&item=longest-happy-prefix",
     "gfgUrl": "https://bit.ly/3ptCpKi",
     "leetcodeUrl": "https://leetcode.com/problems/longest-happy-prefix/",
     "youtubeUrl": ""
@@ -7258,7 +7258,7 @@
     "subtopic": "Hard Problems",
     "name": "Count palindromic subsequence in given string",
     "difficulty": "Hard",
-    "tufUrl": "",
+    "tufUrl": "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084",
     "gfgUrl": "https://bit.ly/3xHw6Hs",
     "leetcodeUrl": "",
     "youtubeUrl": ""

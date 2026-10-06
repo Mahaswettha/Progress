@@ -147,17 +147,15 @@ export const SingleProblemView: React.FC<SingleProblemViewProps> = ({
 
           {/* Links: Only display buttons for links that actually exist */}
           <div className="flex flex-wrap items-center gap-2 pt-1">
-            {problem.tufUrl && (
-              <a
-                href={problem.tufUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md text-xs font-semibold bg-[#21262d] hover:bg-[#30363d] text-[#e6edf3] border border-[#30363d] hover:border-[#8b949e] transition-colors"
-              >
-                <span>TUF</span>
-                <ExternalLink className="w-3 h-3 text-dark-muted" />
-              </a>
-            )}
+            <a
+              href={problem.tufUrl || 'https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet&open=2085,2009,2084'}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md text-xs font-semibold bg-[#21262d] hover:bg-[#30363d] text-[#e6edf3] border border-[#30363d] hover:border-[#8b949e] transition-colors"
+            >
+              <span>TUF Article</span>
+              <ExternalLink className="w-3 h-3 text-dark-muted" />
+            </a>
 
             {problem.gfgUrl && (
               <a
